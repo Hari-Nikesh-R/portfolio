@@ -15,7 +15,7 @@ class _HomePageViewState extends State<HomePageView> {
   late HomeViewModel viewModel;
   @override
   void initState() {
-    viewModel = Provider.of<HomeViewModel>(context, listen:false);
+    viewModel = Provider.of<HomeViewModel>(context, listen:true);
     WidgetsBinding.instance.addPostFrameCallback((_) {
       viewModel.fetchData();
     });
@@ -25,7 +25,6 @@ class _HomePageViewState extends State<HomePageView> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-
       body: Container(),
     );
   }
