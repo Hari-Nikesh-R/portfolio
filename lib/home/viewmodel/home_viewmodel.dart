@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../data/repository/HomeRepository.dart';
+import '../../data/repository/home_repository.dart';
 
 
 class HomeViewModel extends ChangeNotifier {
@@ -8,7 +8,7 @@ class HomeViewModel extends ChangeNotifier {
   final HomeRepository homeRepo;
 
   fetchData(){
-
+    homeRepo.fetchData();
   }
 
 }
