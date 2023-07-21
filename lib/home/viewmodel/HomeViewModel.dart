@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../repository/HomeRepository.dart';
+import '../../data/repository/HomeRepository.dart';
+
 
 class HomeViewModel extends ChangeNotifier {
   HomeViewModel({required this.homeRepo});
