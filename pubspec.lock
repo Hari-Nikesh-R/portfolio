@@ -50,7 +50,7 @@ packages:
     source: hosted
     version: "1.0.5"
   dlwidgets:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: dlwidgets
       sha256: "41574df8e1f565bf7af8011b122d9a20c8a2cdb92c25a8b2b9abbe694f515084"
