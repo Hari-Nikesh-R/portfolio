@@ -1,4 +1,5 @@
-import 'package:portfolio_hari_nikesh_r/home/repository/HomeRepository.dart';
+
+import '../home_repository.dart';
 
 class HomeRepositoryImpl implements HomeRepository{
 

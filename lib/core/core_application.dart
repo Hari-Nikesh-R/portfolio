@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 
-import '../home/view/HomePageView.dart';
+import '../home/view/home_view.dart';
 
 Widget applicationView() {
   return MaterialApp(
