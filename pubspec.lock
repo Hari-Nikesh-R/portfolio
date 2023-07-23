@@ -52,10 +52,11 @@ packages:
   dlwidgets:
     dependency: "direct main"
     description:
-      path: "/Users/harinikeshr/DlWidgets"
-      relative: false
-    source: path
-    version: "0.0.1"
+      name: dlwidgets
+      sha256: "41574df8e1f565bf7af8011b122d9a20c8a2cdb92c25a8b2b9abbe694f515084"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.2"
   fake_async:
     dependency: transitive
     description:
