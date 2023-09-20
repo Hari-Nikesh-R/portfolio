@@ -51,6 +51,7 @@ Widget appBarPadding(Widget header, String clickEvent) {
         debugPrint("About page");
         break;
       case "Internships":
+
       //todo: for Internships page
         debugPrint("Internships page");
         break;

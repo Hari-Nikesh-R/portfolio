@@ -1,3 +1,4 @@
+import 'package:dlwidgets/dlwidgets.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -26,7 +27,23 @@ class _HomePageViewState extends State<HomePageView> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Container(),
+      body:  Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+           Expanded(
+                  child: Padding(padding: const EdgeInsetsDirectional.fromSTEB(12, 12, 12, 20), child: ListView.builder(
+                    shrinkWrap: true,
+                    scrollDirection: Axis.horizontal,
+                    itemCount: 60,
+                    itemBuilder: (context, index) =>  const DlCardView(
+                          child: Padding(padding: EdgeInsets.symmetric(horizontal: 530)),
+                    ),
+                  ))),
+             Container( margin: const EdgeInsets.all(24), child: const DlCardView(
+              child: Center(child: Text("New event"))),
+            )
+          ],
+        ),
     );
   }
 }
