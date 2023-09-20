@@ -9,7 +9,7 @@ import 'data/repository/home_repository.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   setupLocator();
-  runApp(MultiProvider(
+    runApp(MultiProvider(
     providers: [
       ChangeNotifierProvider(
           create: (_) => HomeViewModel(homeRepo: locator<HomeRepository>()))
