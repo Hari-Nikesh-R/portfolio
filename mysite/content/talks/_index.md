@@ -24,3 +24,4 @@ Featured:
 - [Speaker @ Bangalore JUG meetup October 2024](/talks/speaker-bangalore-jug-meetup-october-2024/)
 - [Speaker @ Blibli’s learning hack week](/talks/speaker-bliblis-learning-hack-week/)
 - [Organiser @ ThoughtWorks event 2025](/talks/organiser-thoughtworks-event-2025/)
+- [Speaker @ Tamilnadu JUG September meetup 2025](/talks/speaker-tamilnadu-jug-september-meetup-2025/)
