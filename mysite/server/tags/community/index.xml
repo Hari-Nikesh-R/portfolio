@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on Hari Nikesh R</title>
+    <link>http://localhost:1313/tags/community/</link>
+    <description>Recent content in Community on Hari Nikesh R</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Hari Nikesh R</copyright>
+    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🚀 Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Basketball Community App</title>
+      <link>http://localhost:1313/projects/basketball-community-app/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/basketball-community-app/</guid>
+      <description>A community-driven basketball app concept.</description>
+      
+    </item>
+    
+    <item>
+      <title>Community Contribution Guide</title>
+      <link>http://localhost:1313/community/community-contribution-guide/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/community/community-contribution-guide/</guid>
+      <description>A simple, friendly guide for contributors.</description>
+      
+    </item>
+    
+    <item>
+      <title>Community Mixer @ Google 2025</title>
+      <link>http://localhost:1313/community/community-mixer-google-2025/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/community/community-mixer-google-2025/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Java User Group Playbook</title>
+      <link>http://localhost:1313/community/java-user-group-playbook/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/community/java-user-group-playbook/</guid>
+      <description>A simple runbook for Java User Group events.</description>
+      
+    </item>
+    
+    <item>
+      <title>Notion-style Knowledge Base (Personal &#43; Community)</title>
+      <link>http://localhost:1313/projects/notion-style-knowledge-base/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/notion-style-knowledge-base/</guid>
+      <description>A Notion-style knowledge base, powered by Hugo + Blowfish.</description>
+      
+    </item>
+    
+    <item>
+      <title>🤝 Community</title>
+      <link>http://localhost:1313/community/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/community/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

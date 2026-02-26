@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>✍️ Blog on Hari Nikesh R</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in ✍️ Blog on Hari Nikesh R</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Hari Nikesh R</copyright>
+    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Learning Notes: Spring Security (The Minimum Useful Setup)</title>
+      <link>http://localhost:1313/blog/learning-notes-spring-security/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/learning-notes-spring-security/</guid>
+      <description>A minimum useful mental model for Spring Security.</description>
+      
+    </item>
+    
+    <item>
+      <title>TIL: Java 21 Features I Actually Use</title>
+      <link>http://localhost:1313/blog/til-java-21-features-i-use/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/til-java-21-features-i-use/</guid>
+      <description>A practical shortlist of Java 21+ features.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

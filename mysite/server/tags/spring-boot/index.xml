@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spring-Boot on Hari Nikesh R</title>
+    <link>http://localhost:1313/tags/spring-boot/</link>
+    <description>Recent content in Spring-Boot on Hari Nikesh R</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Hari Nikesh R</copyright>
+    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/spring-boot/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>✍️ Blog</title>
+      <link>http://localhost:1313/blog/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🎤 Talks</title>
+      <link>http://localhost:1313/talks/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Learning Notes: Spring Security (The Minimum Useful Setup)</title>
+      <link>http://localhost:1313/blog/learning-notes-spring-security/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/learning-notes-spring-security/</guid>
+      <description>A minimum useful mental model for Spring Security.</description>
+      
+    </item>
+    
+    <item>
+      <title>Spring Boot in Production: A Checklist</title>
+      <link>http://localhost:1313/talks/spring-boot-production-checklist/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/spring-boot-production-checklist/</guid>
+      <description>A practical production-readiness checklist for Spring Boot apps.</description>
+      
+    </item>
+    
+    <item>
+      <title>Workshop: Build a Spring Boot REST API (Clean &#43; Testable)</title>
+      <link>http://localhost:1313/workshops/spring-boot-rest-api-workshop/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/spring-boot-rest-api-workshop/</guid>
+      <description>A hands-on Spring Boot REST API workshop outline.</description>
+      
+    </item>
+    
+    <item>
+      <title>🧪 Workshops</title>
+      <link>http://localhost:1313/workshops/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

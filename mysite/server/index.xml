@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hari Nikesh R</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Hari Nikesh R</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Hari Nikesh R</copyright>
+    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI &#43; Java: Practical Patterns</title>
+      <link>http://localhost:1313/talks/ai-java-practical-patterns/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/ai-java-practical-patterns/</guid>
+      <description>How Java teams can use AI with guardrails.</description>
+      
+    </item>
+    
+    <item>
+      <title>Basketball Community App</title>
+      <link>http://localhost:1313/projects/basketball-community-app/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/basketball-community-app/</guid>
+      <description>A community-driven basketball app concept.</description>
+      
+    </item>
+    
+    <item>
+      <title>Community Contribution Guide</title>
+      <link>http://localhost:1313/community/community-contribution-guide/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/community/community-contribution-guide/</guid>
+      <description>A simple, friendly guide for contributors.</description>
+      
+    </item>
+    
+    <item>
+      <title>Community Mixer @ Google 2025</title>
+      <link>http://localhost:1313/community/community-mixer-google-2025/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/community/community-mixer-google-2025/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Java User Group Playbook</title>
+      <link>http://localhost:1313/community/java-user-group-playbook/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/community/java-user-group-playbook/</guid>
+      <description>A simple runbook for Java User Group events.</description>
+      
+    </item>
+    
+    <item>
+      <title>Learning Notes: Spring Security (The Minimum Useful Setup)</title>
+      <link>http://localhost:1313/blog/learning-notes-spring-security/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/learning-notes-spring-security/</guid>
+      <description>A minimum useful mental model for Spring Security.</description>
+      
+    </item>
+    
+    <item>
+      <title>Notion-style Knowledge Base (Personal &#43; Community)</title>
+      <link>http://localhost:1313/projects/notion-style-knowledge-base/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/notion-style-knowledge-base/</guid>
+      <description>A Notion-style knowledge base, powered by Hugo + Blowfish.</description>
+      
+    </item>
+    
+    <item>
+      <title>Spring Boot in Production: A Checklist</title>
+      <link>http://localhost:1313/talks/spring-boot-production-checklist/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/spring-boot-production-checklist/</guid>
+      <description>A practical production-readiness checklist for Spring Boot apps.</description>
+      
+    </item>
+    
+    <item>
+      <title>TIL: Java 21 Features I Actually Use</title>
+      <link>http://localhost:1313/blog/til-java-21-features-i-use/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/til-java-21-features-i-use/</guid>
+      <description>A practical shortlist of Java 21+ features.</description>
+      
+    </item>
+    
+    <item>
+      <title>Workshop: Build a Spring Boot REST API (Clean &#43; Testable)</title>
+      <link>http://localhost:1313/workshops/spring-boot-rest-api-workshop/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/spring-boot-rest-api-workshop/</guid>
+      <description>A hands-on Spring Boot REST API workshop outline.</description>
+      
+    </item>
+    
+    <item>
+      <title>Workshop: DSA Mock Interview (Patterns &#43; Communication)</title>
+      <link>http://localhost:1313/workshops/dsa-mock-interview-workshop/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/workshops/dsa-mock-interview-workshop/</guid>
+      <description>A DSA mock interview workshop runbook.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
