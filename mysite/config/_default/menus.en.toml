@@ -40,11 +40,6 @@
   pageRef = "about"
   weight = 70
 
-[[main]]
-  name = "Community Mixer"
-  pageRef = "community-mixer"
-  weight = 80
-
 #[[main]]
 #  name = "Parent"
 #  weight = 20
