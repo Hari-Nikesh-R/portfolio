@@ -24,4 +24,3 @@ When training a cohort, I introduce these after:
 
 Related:
 
-- For a structured path, see the [Java Full Stack Roadmap](/teaching/java-full-stack-roadmap/).

@@ -13,7 +13,7 @@ cardView: true
 Small notes with a bias for **action**.
 
 - **Build notes**: what worked, what didn’t, what I’d repeat
-- **Teaching notes**: patterns that help learners faster
+- **Practical notes**: patterns that help learners faster
 
 Start here:
 

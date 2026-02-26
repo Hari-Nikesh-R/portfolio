@@ -34,10 +34,6 @@ In the long run, I aim to continue growing as a **technical speaker, published a
 ## Quick links
 
 <div class="home-quick-cards not-prose grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 mt-8">
-  <a class="home-quick-card block rounded-lg border border-neutral-200 p-4 hover:bg-neutral-50 dark:border-neutral-700 dark:hover:bg-neutral-900 transition-colors" href="/teaching/">
-    <span class="text-xl font-semibold">📚 Teaching</span>
-    <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-300">Java Full Stack, DSA roadmaps &amp; playbooks</p>
-  </a>
   <a class="home-quick-card block rounded-lg border border-neutral-200 p-4 hover:bg-neutral-50 dark:border-neutral-700 dark:hover:bg-neutral-900 transition-colors" href="/talks/">
     <span class="text-xl font-semibold">🎤 Talks</span>
     <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-300">Speaker notes &amp; outlines</p>

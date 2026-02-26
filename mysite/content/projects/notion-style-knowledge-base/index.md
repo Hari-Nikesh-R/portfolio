@@ -17,7 +17,7 @@ Build a knowledge base that supports:
 
 ## Information architecture
 
-- Top-level sections: Teaching, Talks, Workshops, Community, Projects, Blog
+- Top-level sections: Talks, Workshops, Community, Projects, Blog
 - Each page should answer: **Outcome → Steps → Links**
 
 ## Contribution-friendly defaults

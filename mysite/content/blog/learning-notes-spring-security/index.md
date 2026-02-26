@@ -28,4 +28,4 @@ summary: "A minimum useful mental model for Spring Security."
 
 Related:
 
-- If you’re teaching full stack, plug this into the [Roadmap](/teaching/java-full-stack-roadmap/).
+- If you’re teaching full stack, plug this into the (Teaching section removed).

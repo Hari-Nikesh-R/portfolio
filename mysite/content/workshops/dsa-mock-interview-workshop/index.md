@@ -29,4 +29,3 @@ Most candidates fail due to **signal**, not intelligence:
 - Complexity awareness
 - Communication quality
 
-Pair with: [DSA Training Playbook](/teaching/dsa-training-playbook/).
