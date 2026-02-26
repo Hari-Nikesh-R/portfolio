@@ -22,3 +22,4 @@ Featured:
 - [Organizer and Speaker @ JavaFest 2025](/talks/organizer-speaker-javafest-2025/)
 - [Speaker @ JavaFest 2024](/talks/speaker-javafest-2024/)
 - [Speaker @ Bangalore JUG meetup October 2024](/talks/speaker-bangalore-jug-meetup-october-2024/)
+- [Speaker @ Blibli’s learning hack week](/talks/speaker-bliblis-learning-hack-week/)
