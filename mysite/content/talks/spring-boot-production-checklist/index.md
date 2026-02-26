@@ -4,11 +4,8 @@ date: 2026-02-26
 draft: false
 description: "A talk outline that turns production readiness into a clear checklist for teams."
 tags: ["spring-boot", "java", "talks", "production"]
-featureimage: "images/spring-boot.svg"
 summary: "A practical production-readiness checklist for Spring Boot apps."
 ---
-
-![Spring Boot cover](/images/spring-boot.svg)
 
 ## The core idea
 

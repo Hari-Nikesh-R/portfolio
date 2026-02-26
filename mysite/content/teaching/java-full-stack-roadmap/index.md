@@ -4,11 +4,8 @@ date: 2026-02-26
 draft: false
 description: "A clean, Notion-style roadmap for learning and teaching Java Full Stack with Spring Boot."
 tags: ["java", "full-stack", "spring-boot", "teaching", "roadmap"]
-featureimage: "images/teaching.svg"
 summary: "A practical roadmap for Java Full Stack learning + delivery."
 ---
-
-![Teaching cover](/images/teaching.svg)
 
 ## What this roadmap optimizes for
 

@@ -1,10 +1,29 @@
 ---
 title: "About me"
-description: "Who I am and what I do."
+description: "Hari Nikesh R — Software Engineer, Android developer, and community leader."
 draft: false
+featureimage: "images/profile_speaker_image.png"
+date: 2026-02-26
+
 ---
 
-## About me
+**Name:** [Hari Nikesh R](https://www.linkedin.com/in/hari-nikesh-r-930bb723a/)
 
-Add your “About me” content here.
+**Profession:** Software Engineer — Android developer.
 
+I am currently working at [blibli.com](http://blibli.com) as a **Native Android Developer** with over **3 years of hands-on experience** building scalable, high-performance mobile applications. My journey in tech began with a passion for solving complex problems, which naturally led me to explore the world of mobile technology — particularly Android, Kotlin, and Firebase. Over time, this curiosity evolved into a deep commitment to building not just apps, but also **knowledge-sharing communities.**
+
+At Blibli, I work across critical mobile infrastructure and contribute to Android experiences that serve thousands of users within a robust omnichannel commerce ecosystem. My work includes developing native features, integrating Firebase Cloud services, and optimizing app performance in production-level environments.
+
+Driven by a strong interest in learning and teaching, I began actively engaging with developer communities. This led me to organize and speak at numerous tech events, host workshops, and mentor students and early engineers. I am also deeply involved in AI, exploring how it integrates with Google technologies and enhances problem-solving in real-world scenarios.
+
+Beyond industry events, I regularly participate in college industrial programs — helping students understand new technologies and adopt a problem-solving mindset early in their careers. My goal is to contribute to shaping the next generation's perspective on applying technology meaningfully and effectively.
+
+As a longtime contributor and community leader, I currently serve as:
+
+- **Organizer of the Tamil Nadu Java User Group.**
+- **Co-organizer of the Bangalore Java User Group.**
+- **Student mentor.**
+- **Collaborator with Google Developer Groups on campus at Sri Eshwar College of Engineering**, engaging students and creating learning opportunities.
+
+In the long run, I aim to continue growing as a **technical speaker, published author, and recognized Google Developer Expert in Android,** empowering developers across India and beyond through knowledge, mentorship, and community-focused innovation.

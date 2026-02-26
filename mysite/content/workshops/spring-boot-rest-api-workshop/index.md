@@ -4,11 +4,8 @@ date: 2026-02-26
 draft: false
 description: "A hands-on workshop outline to build a REST API with validation, persistence, and tests."
 tags: ["workshop", "spring-boot", "rest", "testing"]
-featureimage: "images/workshops.svg"
 summary: "A hands-on Spring Boot REST API workshop outline."
 ---
-
-![Workshop cover](/images/workshops.svg)
 
 ## Outcome
 

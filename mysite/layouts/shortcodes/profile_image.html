@@ -1,0 +1,6 @@
+{{ $img := resources.Get "images/profile_speaker_image.png" }}
+{{ if $img }}
+<div class="home-profile-image">
+  <img src="{{ $img.RelPermalink }}" alt="Hari Nikesh R" width="{{ $img.Width }}" height="{{ $img.Height }}">
+</div>
+{{ end }}

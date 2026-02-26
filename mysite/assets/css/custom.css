@@ -1,0 +1,21 @@
+/* Homepage profile image: larger and left-aligned */
+.home-profile-image {
+  float: left;
+  margin: 0 1.5rem 1rem 0;
+  line-height: 0;
+}
+
+.home-profile-image img {
+  width: 200px;
+  max-width: min(200px, 100%);
+  height: auto;
+  border-radius: 0.5rem;
+  object-fit: cover;
+}
+
+@media (min-width: 768px) {
+  .home-profile-image img {
+    width: 260px;
+    max-width: 260px;
+  }
+}

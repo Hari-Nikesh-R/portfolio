@@ -4,11 +4,8 @@ date: 2026-02-26
 draft: false
 description: "A lightweight playbook for running consistent, welcoming Java User Group events."
 tags: ["community", "jug", "events", "playbook"]
-featureimage: "images/community.svg"
 summary: "A simple runbook for Java User Group events."
 ---
-
-![Community cover](/images/community.svg)
 
 ## Event goals (keep them visible)
 

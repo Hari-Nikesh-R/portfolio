@@ -4,11 +4,8 @@ date: 2026-02-26
 draft: false
 description: "A repeatable system for learning DSA with patterns, drills, and mock interviews."
 tags: ["dsa", "problem-solving", "teaching", "interviews"]
-featureimage: "images/dsa.svg"
 summary: "A simple daily/weekly system for DSA progress."
 ---
-
-![DSA cover](/images/dsa.svg)
 
 ## The system
 

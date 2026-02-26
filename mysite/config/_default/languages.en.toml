@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Hari Nikesh R"
 
 [params]
   displayName = "EN"
@@ -14,17 +14,17 @@ title = "Blowfish"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
-#     { link = "https://link-to-some-website.com/" },
-#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+[params.author]
+  name = "Hari Nikesh R"
+  image = "images/profile_speaker_image.png"
+  imageQuality = 96
+  headline = "Software Engineer — Android developer"
+  links = [
+    { linkedin = "https://www.linkedin.com/in/hari-nikesh-r-930bb723a/" }
+  ]
+  # More links (uncomment and edit as needed):
+  # links = [
+  #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
 #     { bluesky = "https://bsky.app/profile/username" },

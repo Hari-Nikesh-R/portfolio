@@ -4,11 +4,8 @@ date: 2026-02-26
 draft: false
 description: "A Hugo + Blowfish structure that feels like a Notion dashboard, but remains fast and community-friendly."
 tags: ["projects", "hugo", "blowfish", "knowledge-base", "community"]
-featureimage: "images/knowledge-base.svg"
 summary: "A Notion-style knowledge base, powered by Hugo + Blowfish."
 ---
-
-![Knowledge base cover](/images/knowledge-base.svg)
 
 ## Goal
 

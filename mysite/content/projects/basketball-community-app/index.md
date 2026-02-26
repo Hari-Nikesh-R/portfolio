@@ -4,11 +4,8 @@ date: 2026-02-26
 draft: false
 description: "A community-first app concept to organize games, runs, players, and local groups."
 tags: ["projects", "basketball", "community", "product"]
-featureimage: "images/basketball.svg"
 summary: "A community-driven basketball app concept."
 ---
-
-![Basketball cover](/images/basketball.svg)
 
 ## Problem
 

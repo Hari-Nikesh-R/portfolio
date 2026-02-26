@@ -4,11 +4,8 @@ date: 2026-02-26
 draft: false
 description: "A mock interview workshop format that trains both problem solving and communication."
 tags: ["workshop", "dsa", "interviews", "coaching"]
-featureimage: "images/dsa.svg"
 summary: "A DSA mock interview workshop runbook."
 ---
-
-![DSA cover](/images/dsa.svg)
 
 ## Why this format works
 

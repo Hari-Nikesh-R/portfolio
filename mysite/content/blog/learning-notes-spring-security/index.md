@@ -4,11 +4,8 @@ date: 2026-02-26
 draft: false
 description: "A practical baseline for Spring Security: auth, protected routes, and a clean mental model."
 tags: ["blog", "spring-security", "spring-boot", "java"]
-featureimage: "images/spring-boot.svg"
 summary: "A minimum useful mental model for Spring Security."
 ---
-
-![Spring Boot cover](/images/spring-boot.svg)
 
 ## My baseline mental model
 

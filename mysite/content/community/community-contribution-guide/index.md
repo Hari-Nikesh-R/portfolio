@@ -4,11 +4,8 @@ date: 2026-02-26
 draft: false
 description: "How to contribute notes, improvements, and new pages to this knowledge base."
 tags: ["community", "contributing", "knowledge-base"]
-featureimage: "images/contribute.svg"
 summary: "A simple, friendly guide for contributors."
 ---
-
-![Contribute cover](/images/contribute.svg)
 
 ## What you can contribute
 

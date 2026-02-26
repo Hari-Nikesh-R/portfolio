@@ -4,11 +4,8 @@ date: 2026-02-26
 draft: false
 description: "A short list of Java features that improve day-to-day code quality and readability."
 tags: ["blog", "java", "java21", "learning"]
-featureimage: "images/java.svg"
 summary: "A practical shortlist of Java 21+ features."
 ---
-
-![Java cover](/images/java.svg)
 
 ## My shortlist
 

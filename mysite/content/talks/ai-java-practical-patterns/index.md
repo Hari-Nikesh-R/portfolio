@@ -4,11 +4,8 @@ date: 2026-02-26
 draft: false
 description: "A talk outline on using AI effectively in Java teams—without losing engineering discipline."
 tags: ["ai", "java", "talks", "productivity"]
-featureimage: "images/ai-java.svg"
 summary: "How Java teams can use AI with guardrails."
 ---
-
-![AI + Java cover](/images/ai-java.svg)
 
 ## Audience promise
 
