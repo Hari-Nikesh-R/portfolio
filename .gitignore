@@ -1,0 +1,10 @@
+# Hugo build output
+mysite/public/
+
+# Nested theme repo (tracked as files, not submodule)
+mysite/themes/blowfish/.git
+
+# OS and editor
+.DS_Store
+*.swp
+*.swo

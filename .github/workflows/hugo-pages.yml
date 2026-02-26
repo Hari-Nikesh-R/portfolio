@@ -1,0 +1,66 @@
+# Build and deploy Hugo site to GitHub Pages
+name: Deploy Hugo to GitHub Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.128.0"
+          extended: true
+
+      - name: Set base URL
+        id: base
+        run: |
+          # User/org site: repo is <owner>.github.io → base URL has no path
+          # Project site: repo is e.g. portfolio → base URL is /portfolio/
+          if [ "${{ github.event.repository.name }}" = "${{ github.repository_owner }}.github.io" ]; then
+            echo "base_url=https://${{ github.repository_owner }}.github.io/" >> $GITHUB_OUTPUT
+          else
+            echo "base_url=https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Build Hugo site
+        run: hugo --minify --baseURL "${{ steps.base.outputs.base_url }}" -s mysite
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: mysite/public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
