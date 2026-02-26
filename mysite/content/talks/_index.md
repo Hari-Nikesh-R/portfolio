@@ -25,3 +25,4 @@ Featured:
 - [Speaker @ Blibli’s learning hack week](/talks/speaker-bliblis-learning-hack-week/)
 - [Organiser @ ThoughtWorks event 2025](/talks/organiser-thoughtworks-event-2025/)
 - [Speaker @ Tamilnadu JUG September meetup 2025](/talks/speaker-tamilnadu-jug-september-meetup-2025/)
+- [Organiser @ Tamilnadu JUG August meetup 2025](/talks/organiser-tamilnadu-jug-august-meetup-2025/)
