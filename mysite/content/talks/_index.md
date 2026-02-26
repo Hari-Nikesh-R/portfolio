@@ -20,3 +20,4 @@ Featured:
 - [AI + Java: Practical Patterns](/talks/ai-java-practical-patterns/)
 - [Spring Boot in Production: A Checklist](/talks/spring-boot-production-checklist/)
 - [Organizer and Speaker @ JavaFest 2025](/talks/organizer-speaker-javafest-2025/)
+- [Speaker @ JavaFest 2024](/talks/speaker-javafest-2024/)
