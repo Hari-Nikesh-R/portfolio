@@ -16,9 +16,6 @@ Talks that prioritize **practical takeaways** and **reusable demos**.
 - **Spring Boot**: production readiness and real-world trade-offs
 
 Featured:
-
-- [AI + Java: Practical Patterns](/talks/ai-java-practical-patterns/)
-- [Spring Boot in Production: A Checklist](/talks/spring-boot-production-checklist/)
 - [Organizer and Speaker @ JavaFest 2025](/talks/organizer-speaker-javafest-2025/)
 - [Speaker @ JavaFest 2024](/talks/speaker-javafest-2024/)
 - [Speaker @ Bangalore JUG meetup October 2024](/talks/speaker-bangalore-jug-meetup-october-2024/)
