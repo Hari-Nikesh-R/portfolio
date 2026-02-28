@@ -25,3 +25,4 @@ Featured:
 - [Organiser @ Tamilnadu JUG August meetup 2025](/talks/organiser-tamilnadu-jug-august-meetup-2025/)
 - [Speaker @ EPAM systems, Chennai 2024](/talks/speaker-epam-systems-chennai-2024/)
 - [Industry Speaker @ PPG College, Coimbatore, Tamil Nadu 2025](/talks/industry-speaker-ppg-college-2025/)
+- [Organiser @ Tamilnadu JUG - March meetup 2025 with GDG on campus in SECE](/talks/organiser-tnjug-march-meetup-sece-2025/)
