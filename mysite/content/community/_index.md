@@ -17,7 +17,5 @@ This section is for building **with people**, not just for people.
 
 Featured:
 
-- [Java User Group Playbook](/community/java-user-group-playbook/)
-- [Community Contribution Guide](/community/community-contribution-guide/)
 - [Community Mixer @ Google 2025](/community/community-mixer-google-2025/)
 - [Co-organizer @ BangaloreJUG April AI meetup 2025](/community/co-organizer-bangalorejug-april-ai-meetup-2025/)
