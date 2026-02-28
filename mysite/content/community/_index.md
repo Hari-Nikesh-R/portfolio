@@ -20,3 +20,4 @@ Featured:
 - [Community Mixer @ Google 2025](/community/community-mixer-google-2025/)
 - [Co-organizer @ BangaloreJUG April AI meetup 2025](/community/co-organizer-bangalorejug-april-ai-meetup-2025/)
 - [Industry Speaker @ Kongu Engineering College, Erode, Tamil Nadu 2025](/community/industry-speaker-kec-2025/)
+- [Community Speaker @ Sri Eshwar College of Engineering, Coimbatore, Tamil Nadu 2024](/community/community-speaker-sece-2024/)
