@@ -30,3 +30,4 @@ Featured:
 - [Community speaker @ Sri Eshwar College of Engineering 2025](/talks/community-speaker-sece-2025/)
 - [Industry Speaker @ SNS College of Engineering, Coimbatore, Tamil Nadu 2025](/talks/industry-speaker-sns-college-2025/)
 - [Student mentor @ Sri Eshwar College of Engineering, Coimbatore, Tamil Nadu 2025](/talks/student-mentor-sece-2025/)
+- [Alumini Guest Lecture @ Sri Eshwar College of Engineering 2023](/talks/alumni-guest-lecture-sece-2023/)
