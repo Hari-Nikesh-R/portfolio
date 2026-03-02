@@ -32,3 +32,4 @@ Featured:
 - [Student mentor @ Sri Eshwar College of Engineering, Coimbatore, Tamil Nadu 2025](/talks/student-mentor-sece-2025/)
 - [Alumini Guest Lecture @ Sri Eshwar College of Engineering 2023](/talks/alumni-guest-lecture-sece-2023/)
 - [Industry Speaker @ Kongu Engineering College, Tamil nadu 2025](/talks/industry-speaker-kec-2025-aws/)
+- [Industry Speaker @ VETIAS, Erode 2026](/talks/industry-speaker-vetias-2026/)
