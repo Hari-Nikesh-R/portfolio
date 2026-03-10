@@ -31,3 +31,4 @@ Featured:
 - [AI event @ SAP](/community/ai-event-sap-2025/)
 - [Bangalore JUG meetup @ Infosys](/community/bangalore-jug-meetup-infosys/)
 - [Kafka Stream event @ Microsoft](/community/kafka-stream-event-microsoft/)
+- [Leveraging AI by Venkat Subramanium @ Banfico - 2026](/community/venkat-ai-talk-banfico-2026/)
