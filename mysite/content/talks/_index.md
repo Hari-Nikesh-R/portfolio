@@ -35,3 +35,4 @@ Featured:
 - [Industry Speaker @ VETIAS, Erode 2026](/talks/industry-speaker-vetias-2026/)
 - [Student Mentor @ Krishna College of Arts and Science, Coimbatore - 2026](/talks/student-mentor-krishna-college-2026/)
 - [Guest Speaker @ Sri Eshwar College of Engineering - 2026](/talks/guest-speaker-sece-2026/)
+- [Organizer of Venkat’s talk @ Tamil Nadu JUG Feb meetup- 2026](/talks/organizer-venkat-talk-tnjug-feb-2026/)
