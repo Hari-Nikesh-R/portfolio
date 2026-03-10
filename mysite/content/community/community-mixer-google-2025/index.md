@@ -1,6 +1,6 @@
 ---
 title: "Community Mixer @ Google 2025"
-date: 2026-02-26
+date: 2025-11-22
 draft: false
 featureimage: "images/cm_google_2025/cm_google_2_2025.png"
 description: "Event Summary and My Contribution at the Community Mixer @ Google 2025."
@@ -24,5 +24,4 @@ I had the honour of representing the Java User Group (JUG) community at this pre
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_google-communitymixer-javausergroup-activity-7397850067874926592-2I1p?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

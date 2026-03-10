@@ -1,6 +1,6 @@
 ---
 title: "Co-organizer @ BangaloreJUG April AI meetup 2025"
-date: 2026-02-28
+date: 2025-04-26
 draft: false
 featureimage: "images/april_bjug_2025/bjug_2025_1.png"
 description: "Event Summary and My Contribution as a Co-organizer at the BangaloreJUG April AI meetup at Infosys."
@@ -24,5 +24,4 @@ As a co-organizer of this event, I played an active role in shaping the workshop
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_bangalore-jeddict-ai-activity-7327524604845920256-6BlE?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

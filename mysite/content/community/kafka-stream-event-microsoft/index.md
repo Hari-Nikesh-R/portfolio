@@ -1,6 +1,6 @@
 ---
 title: "Kafka Stream event @ Microsoft"
-date: 2026-03-10
+date: 2024-03-23
 draft: false
 featureimage: "images/microsoft_kafka_2024/microsoft_kafka_2024_1.png"
 description: "Event Summary and My Learning from the Microsoft-hosted meetup on Kafka, Confluent technologies, and real-time data streaming."
@@ -22,5 +22,4 @@ As an active participant, I engaged deeply with the sessions, gaining a clearer 
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_microsoftmeetup-kafka-confluent-activity-7177261868514701312-Sf-e/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

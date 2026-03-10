@@ -1,6 +1,6 @@
 ---
 title: "Vector DB in mobile @ Couchbase"
-date: 2026-03-10
+date: 2024-07-14
 draft: false
 featureimage: "images/couchbase_2023/couchbase_2023_1.png"
 description: "Event Summary and My Learning from the Vector Search with AI session at the Couchbase office in Bangalore."
@@ -22,5 +22,4 @@ As an attendee, I actively engaged with the technical content and discussions th
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_vectorsearch-aiintegration-couchbase-activity-7218311763262365697-wkgc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

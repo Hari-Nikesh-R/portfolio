@@ -1,6 +1,6 @@
 ---
 title: "Harnessing the Power of the Vector API @ Sahaj Software"
-date: 2026-03-10
+date: 2024-08-12
 draft: false
 featureimage: "images/bjjug_sahaj_2024/bjjug_sahaj_2024_1.png"
 description: "Event Summary and My Learning from the JUG Bangalore meetup at Sahaj Software, exploring Vector API, DevOps automation, and Foreign Function & Memory API."
@@ -22,5 +22,4 @@ As an active attendee, I engaged deeply with all three sessions and discussions.
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_java-jugbangalore-vectorapi-activity-7228804371604455425-qrpF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

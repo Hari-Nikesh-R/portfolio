@@ -1,6 +1,6 @@
 ---
 title: "Spring Boot 3.x Features @ RedHat"
-date: 2026-03-10
+date: 2024-04-27
 draft: false
 featureimage: "images/bjjug_redhat_2024/bjjug_redhat_2024_1.png"
 description: "Event Summary and My Learning from the Bangalore JUG meetup at RedHat office, exploring Spring Boot 3.x, modern Java, and secure supply chains."
@@ -22,5 +22,4 @@ As an active participant, I engaged deeply with the sessions and discussions, st
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_java-springboot-techtalks-activity-7190027381053501441-X7FZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

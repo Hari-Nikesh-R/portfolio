@@ -1,6 +1,6 @@
 ---
 title: "ADK Development in GCP @ DevOn"
-date: 2026-03-10
+date: 2025-08-24
 draft: false
 featureimage: "images/bjug_devon_2025/bjug_devon_2025_1.png"
 description: "Event Summary and My Learning from the community meetup at DevOn Software covering GCP development, Java evolution, and concurrency."
@@ -22,5 +22,4 @@ As an active participant, I traveled from Coimbatore to attend the event and als
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_javameetup-devonsoftware-cloudcomputing-activity-7350061113830518784-CkpV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

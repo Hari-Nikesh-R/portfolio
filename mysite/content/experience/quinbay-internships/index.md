@@ -1,6 +1,6 @@
 ---
 title: "Internship Track @ Quinbay Technologies"
-date: 2026-03-01
+date: 2022-07-11
 draft: false
 description: "Jul 2022 – Aug 2023. Growing from SDE Intern to Mobile Full Stack Intern."
 tags: ["internship", "android", "full-stack", "spring-boot", "jetpack-compose"]

@@ -1,6 +1,6 @@
 ---
 title: "Better use of Cursor AI in work @ Oracle"
-date: 2026-03-10
+date: 2025-08-26
 draft: false
 featureimage: "images/bjjug_oracle_2025/bjjug_oracle_2025_1.png"
 description: "Event Summary and My Learning from the community meetup at Oracle exploring DJL, AI in microservices, and Cursor AI productivity tools."
@@ -24,5 +24,4 @@ As an active participant, I engaged deeply with the technical sessions, gaining 
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_djl-oraclemeetup-techevent-activity-7366088290636091394-pOm9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

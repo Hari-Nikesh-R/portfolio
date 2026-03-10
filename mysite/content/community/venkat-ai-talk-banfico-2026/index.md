@@ -1,6 +1,6 @@
 ---
 title: "Leveraging AI by Venkat Subramanium @ Banfico - 2026"
-date: 2026-03-10
+date: 2026-02-07
 draft: false
 featureimage: "images/venkat_talk_banfico_2026/venkat_talk_banfico_2026_1.png"
 description: "Event Summary and Key Learnings from the TNJUG tech session featuring Venkat Subramaniam at Banfico office."
@@ -35,5 +35,4 @@ Overall, the event was a refreshing blend of learning, inspiration, and communit
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_event-tech-ai-activity-7426521797669437440-Pet1?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

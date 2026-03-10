@@ -1,6 +1,6 @@
 ---
 title: "Java and AI with “Venket” @ IBM Kochi"
-date: 2026-03-10
+date: 2025-08-12
 draft: false
 featureimage: "images/kochijug_aug_venket_2025/kochijug_aug_venket_2025_1.png"
 description: "Event Summary and My Learning from the KochiJUG meetup @ IBM Kochi featuring Dr. Venkat Subramaniam."
@@ -22,5 +22,4 @@ I had the privilege of participating in this meetup not only as a learner but al
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_java-ai-techcommunity-activity-7359930197808238592-p4OT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

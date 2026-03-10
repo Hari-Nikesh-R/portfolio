@@ -1,6 +1,6 @@
 ---
 title: "Senior Software Engineer @ Quinbay Technologies"
-date: 2026-03-01
+date: 2026-01-01
 draft: false
 description: "Jan 2026 – Present | Coimbatore. Building scalable applications across Android and Java Spring Boot ecosystems."
 tags: ["senior-engineer", "quinbay", "android", "spring-boot", "aws"]

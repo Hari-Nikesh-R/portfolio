@@ -1,6 +1,6 @@
 ---
 title: "Bangalore JUG meetup @ Infosys"
-date: 2026-03-10
+date: 2024-05-12
 draft: false
 featureimage: "images/infosys_telemetry_2024/infosys_telemetry_2024_1.png"
 description: "Event Summary and My Learning from the Bangalore JUG meetup at Infosys, focusing on OpenTelemetry and quality-driven development."
@@ -26,5 +26,4 @@ As an active participant, I engaged deeply with both sessions, aligning strongly
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_java-development-opentelemetry-activity-7195128029688336384-4g8u/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

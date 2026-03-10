@@ -1,6 +1,6 @@
 ---
 title: "Founder & Education Mentor @ DoSmartie Hub"
-date: 2026-03-01
+date: 2024-01-01
 draft: false
 description: "Jan 2024 – Present. Empowering students through accessible technical education."
 tags: ["founder", "mentor", "education", "content-creation", "dosmartie"]

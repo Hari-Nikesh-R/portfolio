@@ -1,6 +1,6 @@
 ---
 title: "PADI Open Water Diver"
-date: 2026-03-01
+date: 2025-04-15
 draft: false
 description: "ISO 24801-2: Diver Level 2 (Autonomous Diver). Certified at Scuba Yogi, Neil Island."
 tags: ["scuba", "padi", "open-water", "andaman", "adventure"]

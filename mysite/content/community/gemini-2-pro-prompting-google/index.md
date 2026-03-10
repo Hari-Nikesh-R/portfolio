@@ -1,6 +1,6 @@
 ---
 title: "Gemini 2 pro “How to prompt better” @ Google"
-date: 2026-03-10
+date: 2024-02-24
 draft: false
 featureimage: "images/google_konnect_2024/google_konnect_2024_1.png"
 description: "Event Summary and My Learning from the Konnect AI program at Google, exploring Gemini AI and advanced prompting techniques."
@@ -22,5 +22,4 @@ As a participant in the Konnect AI program, I actively engaged in exploring Gemi
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_konnectai-geminiai-aiinnovation-activity-7167147071903293440-h7CW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)
