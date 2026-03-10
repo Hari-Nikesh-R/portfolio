@@ -38,10 +38,6 @@ In the long run, I aim to continue growing as a **technical speaker, published a
     <span class="text-xl font-semibold">🎤 Talks</span>
     <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-300">Speaker notes &amp; outlines</p>
   </a>
-  <a class="home-quick-card block rounded-lg border border-neutral-200 p-4 hover:bg-neutral-50 dark:border-neutral-700 dark:hover:bg-neutral-900 transition-colors" href="/portfolio/workshops/">
-    <span class="text-xl font-semibold">🧪 Workshops</span>
-    <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-300">Hands-on sessions &amp; exercises</p>
-  </a>
   <a class="home-quick-card block rounded-lg border border-neutral-200 p-4 hover:bg-neutral-50 dark:border-neutral-700 dark:hover:bg-neutral-900 transition-colors" href="/portfolio/community/">
     <span class="text-xl font-semibold">🤝 Community</span>
     <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-300">JUG playbooks &amp; contributions</p>

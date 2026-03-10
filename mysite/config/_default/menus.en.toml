@@ -15,10 +15,7 @@
   pageRef = "talks"
   weight = 20
 
-[[main]]
-  name = "Workshops"
-  pageRef = "workshops"
-  weight = 30
+
 
 [[main]]
   name = "Community"
