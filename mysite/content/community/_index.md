@@ -27,3 +27,4 @@ Featured:
 - [Java and AI with “Venket” @ IBM Kochi](/community/java-and-ai-venket-ibm-kochi/)
 - [Better use of Cursor AI in work @ Oracle](/community/cursor-ai-oracle-2025/)
 - [Spring Boot 3.x Features @ RedHat](/community/spring-boot-3-features-redhat/)
+- [Harnessing the Power of the Vector API @ Sahaj Software](/community/harnessing-vector-api-sahaj/)
