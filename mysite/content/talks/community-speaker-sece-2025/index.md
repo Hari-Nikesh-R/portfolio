@@ -15,6 +15,6 @@ The revisit to Sri Eshwar College of Engineering (SECE) was a meaningful and nos
 
 # My Contribution
 
-![Mentorship Session](images/sece_cs_2025/sece_cs_2025_2.png)
-
 As an alumnus returning to SECE, I had the privilege of guiding the next generation of engineers through a session centered on collaborative learning and building scalable applications. I shared personal experiences from my professional journey, emphasizing how growth happens when individuals connect, communicate, and challenge each other. My discussion included practical insights on system architecture, scalable design principles, and the importance of writing code with purpose and clarity. I facilitated interactive conversations, encouraged students to think critically, and helped them understand how every project, idea, and collaboration can shape their future as engineers. Returning to my college not just as a visitor, but as someone contributing to the development of its students, was a deeply fulfilling moment — reinforcing my commitment to learning, mentorship, and inspiring others to see possibilities beyond what they imagine.
+
+![Mentorship Session](images/sece_cs_2025/sece_cs_2025_2.png)
