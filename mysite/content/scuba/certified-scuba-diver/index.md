@@ -32,6 +32,8 @@ As an Open Water Diver, I am trained and certified to:
     - Buoyancy control and neutral trim execution.
     - Underwater navigation using natural references and compasses.
 
+![Scuba Skills](/portfolio/images/scuba_open_water/scuba_open_water_3.png)
+
 # The Neil Island Experience
 
 My certification was completed in the vibrant waters of **Neil Island (Shaheed Dweep)** in the Andaman and Nicobar Islands. Training at sites like *Lighthouse* and *Aquarium* provided exposure to:
