@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Experience"
+  pageRef = "experience"
+  weight = 10
+
+[[main]]
   name = "Talks"
   pageRef = "talks"
   weight = 20
@@ -36,6 +41,11 @@
   name = "About"
   pageRef = "about"
   weight = 70
+
+[[main]]
+  name = "Scuba"
+  pageRef = "scuba"
+  weight = 80
 
 #[[main]]
 #  name = "Parent"

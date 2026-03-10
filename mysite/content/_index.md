@@ -39,6 +39,10 @@ In the long run, I aim to continue growing as a **technical speaker, published a
 ## Quick links
 
 <div class="home-quick-cards not-prose grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 mt-8">
+  <a class="home-quick-card block rounded-lg border border-neutral-200 p-4 hover:bg-neutral-50 dark:border-neutral-700 dark:hover:bg-neutral-900 transition-colors" href="/portfolio/experience/">
+    <span class="text-xl font-semibold">💼 Experience</span>
+    <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-300">Professional journey &amp; impact</p>
+  </a>
   <a class="home-quick-card block rounded-lg border border-neutral-200 p-4 hover:bg-neutral-50 dark:border-neutral-700 dark:hover:bg-neutral-900 transition-colors" href="/portfolio/talks/">
     <span class="text-xl font-semibold">🎤 Talks</span>
     <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-300">Speaker notes &amp; outlines</p>
@@ -54,5 +58,9 @@ In the long run, I aim to continue growing as a **technical speaker, published a
   <a class="home-quick-card block rounded-lg border border-neutral-200 p-4 hover:bg-neutral-50 dark:border-neutral-700 dark:hover:bg-neutral-900 transition-colors" href="/portfolio/blog/">
     <span class="text-xl font-semibold">✍️ Blog</span>
     <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-300">Short, practical posts</p>
+  </a>
+  <a class="home-quick-card block rounded-lg border border-neutral-200 p-4 hover:bg-neutral-50 dark:border-neutral-700 dark:hover:bg-neutral-900 transition-colors" href="/portfolio/scuba/">
+    <span class="text-xl font-semibold">🤿 Scuba</span>
+    <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-300">Underwater explorations</p>
   </a>
 </div>
