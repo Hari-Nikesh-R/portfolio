@@ -29,3 +29,4 @@ Featured:
 - [Spring Boot 3.x Features @ RedHat](/community/spring-boot-3-features-redhat/)
 - [Harnessing the Power of the Vector API @ Sahaj Software](/community/harnessing-vector-api-sahaj/)
 - [AI event @ SAP](/community/ai-event-sap-2025/)
+- [Bangalore JUG meetup @ Infosys](/community/bangalore-jug-meetup-infosys/)
