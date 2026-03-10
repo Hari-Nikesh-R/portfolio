@@ -23,3 +23,4 @@ Featured:
 - [Community Speaker @ Sri Eshwar College of Engineering, Coimbatore, Tamil Nadu 2024](/talks/community-speaker-sece-2024/)
 - [Vector DB in mobile @ Couchbase](/community/vector-db-mobile-couchbase/)
 - [ADK Development in GCP @ DevOn](/community/adk-development-gcp-devon/)
+- [Gemini 2 pro “How to prompt better” @ Google](/community/gemini-2-pro-prompting-google/)
