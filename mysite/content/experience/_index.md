@@ -12,6 +12,8 @@ cardView: true
 
 A timeline of my professional growth, technical contributions, and impact in the mobile and backend engineering space.
 
+[ {{< icon "linkedin" >}} View Full Experience on LinkedIn](https://www.linkedin.com/in/hari-nikesh-r-930bb723a/details/experience/)
+
 ## Featured Roles
 
 - [Senior Software Engineer @ Quinbay Technologies (2026-Present)](/portfolio/experience/quinbay-senior-software-engineer/)
