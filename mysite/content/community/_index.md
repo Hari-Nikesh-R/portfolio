@@ -22,3 +22,4 @@ Featured:
 - [Industry Speaker @ Kongu Engineering College, Erode, Tamil Nadu 2025](/talks/industry-speaker-kec-2025/)
 - [Community Speaker @ Sri Eshwar College of Engineering, Coimbatore, Tamil Nadu 2024](/talks/community-speaker-sece-2024/)
 - [Vector DB in mobile @ Couchbase](/community/vector-db-mobile-couchbase/)
+- [ADK Development in GCP @ DevOn](/community/adk-development-gcp-devon/)
