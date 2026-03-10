@@ -22,3 +22,11 @@ At JavaFest 2024, I had the honour of participating as the youngest speaker, rep
 Beyond the session, I engaged with industry experts from Oracle, Infosys, Banfico, JetBrains, and others—strengthening connections, exchanging ideas, and contributing actively to conversations that shape the future of Java. This experience reaffirmed my belief in community-driven learning and motivated me to continue sharing knowledge, mentoring developers, and playing a larger role in advancing the Java ecosystem.
 
 ![My Contribution](images/jf_2024/jf_2024_3.png)
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

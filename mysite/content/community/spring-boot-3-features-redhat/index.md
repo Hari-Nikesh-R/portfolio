@@ -16,3 +16,11 @@ The Bangalore Java User Group (JUG) meetup, hosted at the Red Hat office, was a 
 # My Learning
 
 As an active participant, I engaged deeply with the sessions and discussions, strengthening my understanding of modern Java and Spring Boot development practices. One of the most inspiring moments for me was meeting Navin Reddy, whose educational content played a significant role in making Java accessible during my early learning journey. Interacting with him and discussing technology was a meaningful reminder of how community knowledge-sharing creates lasting impact. Throughout the meetup, I actively exchanged ideas with fellow developers, explored best practices around secure dependency management, testing strategies, and JVM evolution, and reflected on how these learnings can be shared back with the wider community. This experience reinforced my belief that meetups like these are not just about staying technically updated—but about connecting with people who inspire, teach, and elevate the ecosystem together.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

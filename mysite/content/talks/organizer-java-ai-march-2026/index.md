@@ -58,3 +58,11 @@ My contributions included:
 - Helped strengthen the developer ecosystem in Coimbatore by organizing a high-quality technical community event.
 
 For me personally, organizing this event was both challenging and rewarding. Seeing developers learn, ask questions, and connect with each other made all the behind-the-scenes effort truly worthwhile and reinforced my motivation to continue building and growing the developer community.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

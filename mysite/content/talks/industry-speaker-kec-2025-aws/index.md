@@ -22,3 +22,11 @@ What made the workshop truly stand out was the high level of student engagement�
 ![Co-facilitation with Vignesh Ravichandran](images/sns_industrial_speaker_2025/sns_industrial_speaker_2025_3.png)
 
 As a co-facilitator of the workshop alongside Vignesh Ravichandran, I contributed to delivering an insightful and interactive cloud learning experience for the students. I engaged with participants throughout the session, clarified key AWS concepts, encouraged questions, and supported discussions that helped students relate cloud principles to real development challenges. Working with Vignesh added tremendous value, as our combined perspectives created a richer and more balanced learning environment. Being part of this workshop reaffirmed my belief that wisdom grows when it flows—sharing knowledge is powerful, but sharing it with an engaged audience makes the experience truly impactful. I’m proud to have contributed to this initiative and look forward to fostering more such collaborations that inspire continuous learning and growth.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

@@ -16,3 +16,11 @@ The Microsoft-hosted meetup on Kafka and Confluent technologies was an enlighten
 # My Learning
 
 As an active participant, I engaged deeply with the sessions, gaining a clearer understanding of how Kafka-based architectures enable real-time analytics and event-driven systems at scale. The detailed explanations around Kafka topics, stream processing, and integration patterns strengthened my perspective on designing resilient data pipelines. I also took part in thought-provoking discussions with fellow attendees and industry experts, exchanging ideas on practical challenges and architectural trade-offs in streaming systems. Learning directly from experienced mentors such as Sidharth Ramesh, Anuj Garg, and Sunil Kumar Behara (Senior Solutions Engineer, Confluent) enriched the experience, as their clear explanations and real-world examples made complex concepts approachable. This meetup reinforced my appreciation for continuous learning through community engagement and motivated me to further explore event-driven architectures and share these learnings with the broader developer ecosystem.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

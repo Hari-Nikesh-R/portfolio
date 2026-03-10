@@ -24,3 +24,11 @@ As a core organizer of the Tamil Nadu JUG March Edition, I played a key role in 
 I worked hand-in-hand with my co-organizer Prabu Dev, whose dedication was instrumental, and supported the coordination efforts led by Griffin Annshual and Muruga Perumal R with the GDG student team. Beyond operational planning, I actively facilitated sessions, engaged with participants, and helped create a welcoming environment that encouraged open discussion and genuine connection. The thoughtful gesture from the GDG team and the overwhelming participant enthusiasm reaffirmed why community-building is so meaningful to me. Being part of this event strengthened my commitment to creating inclusive spaces where developers can learn, grow, and uplift one another.
 
 ![Participant Engagement](images/tnjug_sece_march_2025/tnjug_sece_march_2025_4.png)
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

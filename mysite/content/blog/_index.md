@@ -17,5 +17,5 @@ Small notes with a bias for **action**.
 
 Start here:
 
-- [Learning Notes: Spring Security](/blog/learning-notes-spring-security/)
-- [TIL: Java 21 Features I Use](/blog/til-java-21-features-i-use/)
+- [Learning Notes: Spring Security](/portfolio/blog/learning-notes-spring-security/)
+- [TIL: Java 21 Features I Use](/portfolio/blog/til-java-21-features-i-use/)

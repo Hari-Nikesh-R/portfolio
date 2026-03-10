@@ -18,3 +18,11 @@ The meetup hosted at Oracle was a deeply enriching community experience that bro
 ![Showcasing JavaFest at Oracle](images/bjjug_oracle_2025/bjjug_oracle_2025_2.jpg)
 
 As an active participant, I engaged deeply with the technical sessions, gaining practical insights into DJL, AI-driven microservices, and modern developer tooling that I can directly apply in my professional work. I also had the privilege of showcasing JavaFest on the Oracle premises, promoting the vision of this community-driven conference and encouraging broader participation. Additionally, I delivered a short talk introducing the Tamil Nadu Java User Group (TNJUG), sharing how we actively contribute to developer learning, collaboration, and ecosystem growth. Interacting with Oracle professionals, fellow developers, and community leaders allowed me to exchange ideas, build new connections, and strengthen cross-community collaboration. This meetup was not just a learning opportunity, but a meaningful step in contributing to and growing a vibrant, connected Java community.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

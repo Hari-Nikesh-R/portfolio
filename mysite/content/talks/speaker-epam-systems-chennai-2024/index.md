@@ -20,3 +20,11 @@ As the speaker for this event, I had the privilege of presenting the vision, arc
 ![My Contribution Presentation](images/epam_tnjug_2024/epam_tnjug_2.png)
 
 Beyond the technical talk, I highlighted the collaborative spirit behind the project and how community contributions have shaped its evolution. Sharing the stage as both a speaker and active contributor strengthened my commitment to open source and inspired me to continue building tools that empower the developer community.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

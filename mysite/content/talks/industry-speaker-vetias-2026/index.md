@@ -28,3 +28,11 @@ I had the opportunity to address the students on project development strategies,
 I guided students on how to approach project ideation, problem analysis, and solution design while maintaining code quality and documentation standards. I also motivated students to actively participate in developer communities and contribute to open-source projects, highlighting how such contributions help in skill enhancement, networking, and career growth.
 
 Additionally, I interacted with faculty members to exchange insights on mentoring approaches and aligning academic projects with industry expectations. I also contributed to spreading awareness about community culture and collaborative learning, reinforcing the value of continuous knowledge sharing beyond classrooms.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

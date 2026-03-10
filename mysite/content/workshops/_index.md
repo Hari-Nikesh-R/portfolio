@@ -17,5 +17,5 @@ Workshops are designed to be **run in a room** (or online) with a clear pace.
 
 Start here:
 
-- [Spring Boot REST API Workshop](/workshops/spring-boot-rest-api-workshop/)
-- [DSA Mock Interview Workshop](/workshops/dsa-mock-interview-workshop/)
+- [Spring Boot REST API Workshop](/portfolio/workshops/spring-boot-rest-api-workshop/)
+- [DSA Mock Interview Workshop](/portfolio/workshops/dsa-mock-interview-workshop/)

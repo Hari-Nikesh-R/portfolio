@@ -16,3 +16,11 @@ The weekend meetup hosted at DevOn Software was a highly enriching community-dri
 # My Learning
 
 As an active participant, I traveled from Coimbatore to attend the event and also encouraged fellow developers from different locations to join—strengthening cross-regional community engagement. I engaged deeply in all sessions, gaining valuable insights into secure application development on Google Cloud using ADK, modern Java language features, JVM concurrency models including Project Loom and virtual threads, and practical approaches to handling persistence in real-world systems. I also participated in community activities and was humbled to receive a prize in one of the contests, which further energized my involvement. Additionally, I took the opportunity to provide constructive feedback to the organizers, contributing ideas to help enhance future events. This experience reinforced my belief that community growth thrives on active participation, shared learning, and mutual encouragement—and motivated me to continue supporting and empowering developer communities through collaboration and consistent engagement.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

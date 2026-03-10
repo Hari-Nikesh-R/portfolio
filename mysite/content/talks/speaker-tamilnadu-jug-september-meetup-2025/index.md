@@ -18,3 +18,11 @@ The Concurrency & AI Day meetup brought together developers and tech enthusiasts
 As both an organizer and a speaker, I played a dual role in shaping the success of this event. I delivered a dedicated session on “Java Threads to Virtual Threads: The Java Concurrency Journey,” where I walked participants through the evolution of concurrency models, practical challenges in thread management, and the future impact of Project Loom and virtual threads on scalable application design. Beyond the talk, I worked extensively on planning, coordinating with speakers, structuring the event agenda, and ensuring a smooth experience for all attendees.
 
 ![My Contribution](images/jug_concurrency_2025/jug_concurrency_2025_2.png)
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

@@ -30,4 +30,4 @@ By the end, attendees ship an API with:
 - Add a “status” field with allowed values
 - Introduce one performance pitfall, then fix it
 
-Recommended warm-up: [Spring Boot in Production: A Checklist](/talks/spring-boot-production-checklist/).
+Recommended warm-up: [Spring Boot in Production: A Checklist](/portfolio/talks/spring-boot-production-checklist/).

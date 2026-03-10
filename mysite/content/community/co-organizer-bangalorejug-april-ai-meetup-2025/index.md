@@ -18,3 +18,11 @@ The “Build with AI: Java-Powered Day” workshop at the Infosys Electronic Cit
 ![Co-organizer Contribution](images/april_bjug_2025/bjug_2025_2.png)
 
 As a co-organizer of this event, I played an active role in shaping the workshop’s vision, coordinating with speakers, and facilitating smooth collaboration between the Bangalore JUG, Infosys teams, and Google for Developers. I contributed to event planning, speaker alignment, agenda structuring, and ensuring that technical sessions were cohesive and high-impact. On the ground, I helped manage event logistics, participant engagement, and supported interactive discussions to create a meaningful learning experience for attendees. Beyond coordination, I engaged deeply with the technical content—exploring Spring AI integrations, Vertex AI deployments, and LangChain4j workflows—so these insights can be further shared with the wider Java community through upcoming meetups and knowledge-sharing initiatives. Organizing this workshop strengthened my commitment to building platforms where developers can explore AI-driven innovation and empowered me to continue shaping impactful community events that advance the Java ecosystem.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

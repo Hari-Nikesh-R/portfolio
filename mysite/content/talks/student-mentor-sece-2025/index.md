@@ -16,3 +16,11 @@ The session conducted for the Department of Computer and Communication Engineeri
 # My Contribution
 
 As an alumnus returning to my college, I delivered a motivational talk that blended personal career experiences, lessons learned, and practical guidance for students beginning their professional journeys. I shared insights about persistence, curiosity, and the mindset required to grow in today’s tech-driven world. While I aimed to inspire the students, their energy, responses, and thoughtful questions also motivated me in return—reminding me of why knowledge-sharing is so powerful. Being part of this session allowed me to give back to the community that shaped me and to contribute to the growth of the next generation of engineers. It reaffirmed the value of staying connected with academia and fostering a culture of mutual learning and collective progress.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

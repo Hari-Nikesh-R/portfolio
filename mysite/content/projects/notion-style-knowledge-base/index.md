@@ -28,4 +28,4 @@ Build a knowledge base that supports:
 
 Next:
 
-- Add new content following the [Community Contribution Guide](/community/community-contribution-guide/).
+- Add new content following the [Community Contribution Guide](/portfolio/community/community-contribution-guide/).

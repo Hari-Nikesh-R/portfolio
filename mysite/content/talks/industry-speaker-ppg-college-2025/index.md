@@ -18,3 +18,11 @@ The session at PPG Institute of Technology brought together a vibrant group of s
 ![My Contribution Presentation](images/ppg_2025/ppg_2025_2.png)
 
 As the invited speaker, I guided students through the core principles of DSA, helping them understand not just how algorithms work, but why they matter in building scalable, efficient, and intelligent solutions. I encouraged them to view algorithms as tools that tell stories through data, and I emphasized the importance of continuous learning and curiosity in mastering problem-solving. Through real-world examples, conceptual explanations, and interactive conversations, I aimed to simplify complex ideas and inspire students to think beyond formulas and code. The eagerness of the students and the thoughtful support from faculty made the experience fulfilling, reminding me that impactful education is rooted in inspiring each other to learn, grow, and push boundaries. I left the session with renewed motivation to continue contributing to the academic community and empowering young learners to pursue excellence in technology.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

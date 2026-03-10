@@ -16,3 +16,11 @@ The KochiJUG Meetup held at Infopark, Kochi, and hosted at IBM, was a high-impac
 # My Learning
 
 I had the privilege of participating in this meetup not only as a learner but also as a speaker and community representative. Beyond engaging deeply with the technical sessions, I took the opportunity to present and promote the upcoming JAVAFEST conference on a global community stage, encouraging registrations and sharing the vision behind this community-driven initiative. Engaging with developers from different regions, exchanging ideas, and advocating for collaborative events like JAVAFEST was an enriching experience that strengthened cross-community connections. Meeting Dr. Venkat Subramaniam in person and learning directly from him was a truly inspiring moment, further fueling my passion for community building, continuous learning, and contributing to the growth of the global Java ecosystem.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

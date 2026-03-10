@@ -22,3 +22,11 @@ As one of the primary organizers of this event, I played a central role in plann
 ADD IMAGE
 
 Being part of an organizing team that successfully brought together industry experts, students, and professionals was deeply meaningful—reinforcing my commitment to building strong community ecosystems and shaping the future of developer engagement in Tamil Nadu.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

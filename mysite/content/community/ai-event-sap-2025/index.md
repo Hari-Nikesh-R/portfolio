@@ -16,3 +16,11 @@ The SAP AI Insider meetup in Bangalore was an inspiring and immersive experience
 # My Learning
 
 As an active participant, I engaged deeply with the sessions and discussions, focusing on understanding practical approaches to integrating LLMs into enterprise workflows. The AI Log Analyzer use case particularly broadened my perspective on how AI can be leveraged beyond experimentation—into scalable, production-ready systems. I connected with industry professionals, exchanged ideas on LLM adoption, MLOps practices, and ethical AI considerations, and reflected on how these learnings can be applied to real-world problem-solving. Beyond technical insights, the event reinforced the importance of continuous learning, collaboration, and curiosity in the rapidly evolving AI landscape. I walked away with renewed motivation to keep experimenting, building, and contributing meaningfully to the AI ecosystem through knowledge sharing and community engagement.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

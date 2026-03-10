@@ -20,3 +20,11 @@ The second session, **“JET Speed Application Development”** by **Sathish Kum
 # My Learning
 
 As an active participant, I engaged deeply with both sessions, aligning strongly with the core message that responsibility is the foundation of quality engineering. I reflected on how practices like comprehensive test coverage, mutation testing, and observability-first design directly reduce debugging time and improve system reliability. The discussions around OpenTelemetry, tracing dependencies, and metrics-driven monitoring strengthened my understanding of building production-ready systems that scale responsibly. I also participated in networking conversations during the break, exchanging ideas with fellow developers on testing strategies, NFR optimization, and tooling choices. Beyond technical learning, the event reinforced my belief that great developers take ownership—not just of code, but of outcomes, user experience, and long-term maintainability. This experience further motivated me to apply these principles in my work and share these learnings within the broader developer community.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

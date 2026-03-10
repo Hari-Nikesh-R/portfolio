@@ -29,3 +29,11 @@ Overall, the event was a refreshing blend of learning, inspiration, and communit
 - **Practical usage matters more than hype.** Clear, grounded examples make AI approachable and immediately usable in day-to-day development.
 - **In a fast-changing tech landscape, those who embrace and learn AI smartly will move ahead**—not those who fear it.
 - **Learning environments matter.** The energy, discussions, and shared curiosity during the session reinforced how community-driven events accelerate growth.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

@@ -20,3 +20,11 @@ The alumni guest lecture at Sri Eshwar College of Engineering brought together e
 ![Mentorship Moment](images/sece_alumini_gl_2023/sece_alumini_gl_2023_2.png)
 
 As an alumnus returning to my college, I had the privilege of delivering a session that blended industry experience with practical learning. I walked students through the fundamentals of Java in mobile app development, shared professional insights from real-world Android engineering, and helped them understand how strong JVM foundations accelerate growth in the mobile ecosystem. I encouraged students to explore structured development workflows, adopt best practices, and stay curious as they begin their tech journeys. Throughout the session, I engaged with their questions, clarified concepts, and guided them on how to approach mobile development with clarity and confidence. Being invited back to contribute to my alma mater was both meaningful and motivating—reinforcing my commitment to giving back, mentoring young engineers, and continuing to support academic–industry collaboration.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

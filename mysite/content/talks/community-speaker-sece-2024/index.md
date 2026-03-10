@@ -18,3 +18,11 @@ The collaborative interaction at Sri Eshwar College of Engineering was a meaning
 ![My Contribution](images/sece_community_speaker_2024/sece_community_speaker_2024_2.png)
 
 As a mentor during this engagement, I had the opportunity to share my experiences while also learning from the fresh perspectives and unique approaches of the students. I engaged them in discussions around problem-solving strategies, development workflows, and the growing possibilities within the tech ecosystem. One student, in particular, stood out for starting their development journey during school—a moment that not only inspired me but also highlighted the importance of nurturing early talent. Through these conversations, I aimed to create a collaborative learning space where curiosity, creativity, and continuous growth were encouraged. This experience reaffirmed my belief that effective learning is always a two-way process, and I remain committed to fostering more such interactions that empower both mentors and students to evolve together.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

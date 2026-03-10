@@ -53,3 +53,11 @@ As the Organizer from the Tamil Nadu Java User Group, I played a key role in pla
 - **Building collaboration** with industry partners like EPAM Systems to support the community initiative.
 
 The recognition received during the event from both Venkat Subramaniam and industry representatives served as a strong motivation to continue building developer communities, organizing impactful events, and creating learning opportunities for aspiring developers.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

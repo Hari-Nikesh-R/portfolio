@@ -16,3 +16,11 @@ The Vector Search with AI session, hosted by a mobile-focused developer communit
 # My Learning
 
 As an attendee, I actively engaged with the technical content and discussions throughout the event. The session on vector search by Shivay Lamba (Software Developer, Couchbase) helped me gain practical insights into implementing AI-backed search workflows and writing efficient, production-ready Kotlin and Java code for mobile applications. The follow-up session by Fairoz Matte (Oracle) deepened my understanding of JVM internals, particularly around different class loader types, custom class loaders, debugging strategies, and their interaction with garbage collection. Beyond the sessions, interacting with developers from a mobile-first community expanded my perspective on how AI, databases, and mobile platforms intersect in real-world applications. This experience reinforced the value of learning beyond familiar ecosystems and engaging with diverse communities to stay adaptable and technically versatile.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

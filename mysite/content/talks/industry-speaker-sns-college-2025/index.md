@@ -20,3 +20,11 @@ The collaborative session at SNS College of Technology brought together enthusia
 As the speaker for this session, I guided students through essential DSA concepts while sharing practical interview insights, problem-solving strategies, and real engineering experiences from the industry. I emphasized not only the technical aspects of algorithms but also the equally important soft skills—communication, clarity, and confidence—that shape success in interviews and workplace collaboration. I facilitated a hands-on, discussion-driven session where students practiced articulating their thought processes, structuring solutions, and approaching problems methodically under pressure. Throughout the event, I was inspired by their enthusiasm, which in turn pushed me to revisit my own fundamentals and reflect deeply on problem-solving patterns. This session reaffirmed my belief that teaching is one of the most powerful modes of learning. By mentoring students, encouraging their growth mindset, and fostering an environment of shared learning, I aimed to empower the next generation of engineers to stay curious, stay consistent, and rise together through collaboration.
 
 ![Mentorship in Action](images/sns_industrial_speaker_2025/sns_industrial_speaker_2025_3.png)
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

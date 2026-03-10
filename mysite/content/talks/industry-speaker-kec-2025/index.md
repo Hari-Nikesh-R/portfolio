@@ -18,3 +18,11 @@ The AI-focused session at Kongu Engineering College (KEC) brought together a hig
 As the invited speaker for this session, I had the opportunity to guide students through the evolving role of Artificial Intelligence in education, innovation, and real-world problem solving. I structured the session to bridge conceptual understanding with practical scenarios—helping students see AI as a tool they can actively leverage in their academic and professional journeys. By fostering an open, dialogue-driven environment, I encouraged two-way conversations, answered in-depth questions, and helped students think critically about the impact of AI on their future careers. The extended session was a direct reflection of the strong engagement and the value the students found in the discussion. Being part of this event reinforced my belief in sharing knowledge with upcoming generations and highlighted the importance of empowering young minds to adopt AI with clarity, responsibility, and creativity. I am grateful for the invitation from KEC and look forward to more opportunities to support and inspire students through technology-driven learning.
 
 ![My Contribution](images/kec_guest_2025/kec_guest_2025_2.png)
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

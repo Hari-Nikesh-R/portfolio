@@ -7,7 +7,8 @@ description: "Master Class on Agentic AI and hands-on session at Thiran Event 20
 tags: ["ai", "agentic-ai", "event", "talks", "speaker", "academic", "masterclass"]
 ---
 
-![Event Preview](images/thiran_sece_2026/thiran_sece_2026_1.heic)
+
+![Master Class Session](images/thiran_sece_2026/thiran_sece_2026_3.png)
 
 # Event Summary
 
@@ -23,8 +24,6 @@ The event was successfully hosted with the support of **Sri Eshwar College of En
 
 I was invited as a guest speaker by my senior faculty members, which was both an honor and an emotional milestone in my academic and professional journey. I conducted a Master Class on Agentic AI, focusing on practical implementation rather than theoretical discussion alone.
 
-![Master Class Session](images/thiran_sece_2026/thiran_sece_2026_3.png)
-
 ### **Key Contributions:**
 
 - Delivered a **hands-on masterclass on Agentic AI**, introducing participants to the concept of autonomous AI agents.
@@ -38,3 +37,11 @@ The session reinforced the idea that learning is a two-way process and that stud
 I would also like to acknowledge **IIIT Dharwad**, where I am currently pursuing my M.Tech in Data Science and AI. The academic foundation and exposure gained there played a significant role in strengthening my expertise and confidence to deliver this session effectively.
 
 Overall, Thiran Event 2026 was a memorable experience that allowed me not only to contribute as a speaker but also to grow as a learner, collaborator, and mentor.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

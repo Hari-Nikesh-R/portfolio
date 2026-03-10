@@ -18,3 +18,11 @@ The Community Mixer @ Google brought together influential community leaders, org
 I had the honour of representing the Java User Group (JUG) community at this prestigious gathering, positioning our collective work on a national stage. Together with Aditya, I contributed to discussions on scaling Java-focused initiatives, designing impactful event structures, and empowering developers through consistent community engagement. As an organiser and active community leader, I shared insights drawn from our on-ground experiences across Tamil Nadu and Bangalore JUGs—highlighting the importance of mentorship, quality technical content, and sustainable community growth. I also engaged with Google personnel, including reconnecting with Mr. Prasad, discussing opportunities to further collaborate and amplify the reach of Java-centric programs. This event strengthened my commitment to advocating for developers, building inclusive spaces, and contributing meaningfully to the broader technology ecosystem.
 
 ![My Contribution](images/cm_google_2025/cm_google_2025.png)
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

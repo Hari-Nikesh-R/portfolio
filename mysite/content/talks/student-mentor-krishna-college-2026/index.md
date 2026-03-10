@@ -28,3 +28,11 @@ I engaged with students through interactive discussions, real-world examples, an
 ![Mindset Discussion](images/krishna_sm_2026/krishna_sm_2026_4.jpeg)
 
 The interaction not only allowed me to contribute to the students’ learning journey but also refreshed my own perspective by learning from their ideas, enthusiasm, and optimism.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

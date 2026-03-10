@@ -22,3 +22,11 @@ As both a co-organizer and a speaker, I played a key role in shaping and executi
 ![OpenRewrite Demo](images/softashram_chennai_2025/softashram_chennai_2025_3.png)
 
 The live demo showcased practical techniques teams can adopt for seamless migrations and long-term maintainability. Alongside my own talk, I actively contributed to facilitating Q&A sessions, engaging attendees, and fostering conversations around testing strategies, scalability concerns, and Spring Boot modernization. The experience reinforced my belief that community events thrive on shared passion and teamwork. Seeing participants deeply energized—both during technical sessions and during the informal networking that followed—was a powerful reminder of why I continue to invest in building and organizing developer communities across Tamil Nadu.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

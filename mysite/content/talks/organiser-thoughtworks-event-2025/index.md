@@ -20,3 +20,11 @@ The November Meetup at ThoughtWorks, Coimbatore brought together a vibrant group
 As one of the organizers, I played a key role in planning, coordinating, and executing the November Meetup, ensuring a seamless experience for participants and speakers alike. From venue discussions and speaker collaboration to event flow, communication, and on-ground execution, I worked closely with the hosting team at ThoughtWorks, co-organizer Kishore G, and the volunteers to bring this event to life. My responsibilities extended to engaging with speakers, curating session flow, interacting with participants, and fostering an environment that encouraged learning and open dialogue. This experience allowed me to deepen my community-building skills and reinforced my belief that impactful events are built through teamwork, shared passion, and a commitment to uplift others. Organizing this meetup was not just an event responsibility—it was a step forward in strengthening the developer community and cultivating a culture of continuous learning.
 
 ![My Contribution](images/cbe_thoughtworks_2025/thoughtworks_3.png)
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

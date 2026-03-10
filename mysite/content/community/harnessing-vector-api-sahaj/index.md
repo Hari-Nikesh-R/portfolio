@@ -16,3 +16,11 @@ The Java User Group (JUG) Bangalore meetup hosted at Sahaj Software was a high-i
 # My Learning
 
 As an active attendee, I engaged deeply with all three sessions and discussions. The talk on the Vector API helped me better understand SIMD-based data parallelism and how Java is evolving to deliver high-performance computing capabilities. The DevOps-focused session sparked meaningful thoughts on how automation and open-source innovation can address recurring challenges faced by Java developers, especially through community-driven tooling. The deep dive into the Foreign Function and Memory API expanded my perspective on native integrations, memory management, and moving beyond traditional JNI approaches. Beyond the technical learning, I actively connected with fellow developers, exchanged ideas around open-source projects, and participated in conversations that extended learning beyond the sessions themselves. This meetup reinforced my belief that community platforms like JUG play a crucial role in continuous learning, collaboration, and professional growth within the Java ecosystem.
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

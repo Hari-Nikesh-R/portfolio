@@ -24,3 +24,11 @@ For me, JavaFest 2025 was a profound full-circle moment—returning not just as 
 I played a key role in curating the Java + AI content tracks, shortlisting impactful talks, coordinating with sponsors and speakers, and managing diverse participant expectations across regions. Even amidst last-minute challenges, I worked closely with co-organizers and volunteers to ensure seamless execution. This experience strengthened my belief in community-led growth—showing that success is built by people who share a purpose. My journey from speaker to organizer reflects my commitment to empowering developers, fostering collaboration, and contributing actively to the evolution of the Java community.
 
 ![My Contribution](images/jf_2025/jf_speaker_4.png)
+
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
+- **Event:** [Specific Link](https://example.com)

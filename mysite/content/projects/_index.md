@@ -17,5 +17,5 @@ I build projects that make learning and community participation easier.
 
 Featured:
 
-- [Basketball Community App](/projects/basketball-community-app/)
-- [Notion-style Knowledge Base](/projects/notion-style-knowledge-base/)
+- [Basketball Community App](/portfolio/projects/basketball-community-app/)
+- [Notion-style Knowledge Base](/portfolio/projects/notion-style-knowledge-base/)

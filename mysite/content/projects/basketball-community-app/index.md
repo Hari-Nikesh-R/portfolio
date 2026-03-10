@@ -26,5 +26,5 @@ Local basketball communities often rely on scattered chats and word-of-mouth. Th
 
 Related:
 
-- Community structure ideas: [Java User Group Playbook](/community/java-user-group-playbook/)
-- A Notion-style approach for project notes: [Knowledge Base](/projects/notion-style-knowledge-base/)
+- Community structure ideas: [Java User Group Playbook](/portfolio/community/java-user-group-playbook/)
+- A Notion-style approach for project notes: [Knowledge Base](/portfolio/projects/notion-style-knowledge-base/)
