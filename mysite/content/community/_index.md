@@ -28,3 +28,4 @@ Featured:
 - [Better use of Cursor AI in work @ Oracle](/community/cursor-ai-oracle-2025/)
 - [Spring Boot 3.x Features @ RedHat](/community/spring-boot-3-features-redhat/)
 - [Harnessing the Power of the Vector API @ Sahaj Software](/community/harnessing-vector-api-sahaj/)
+- [AI event @ SAP](/community/ai-event-sap-2025/)
