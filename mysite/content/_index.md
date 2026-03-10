@@ -19,6 +19,11 @@ At Blibli, I work across critical mobile infrastructure and contribute to Androi
 Driven by a strong interest in learning and teaching, I began actively engaging with developer communities. This led me to organize and speak at numerous tech events, host workshops, and mentor students and early engineers. I am also deeply involved in AI, exploring how it integrates with Google technologies and enhances problem-solving in real-world scenarios.
 
 Beyond industry events, I regularly participate in college industrial programs — helping students understand new technologies and adopt a problem-solving mindset early in their careers. My goal is to contribute to shaping the next generation's perspective on applying technology meaningfully and effectively.
+<br>
+
+### **Beyond Engineering**
+
+When I'm not building for the mobile ecosystem or leading community meetups, I explore the depths of the ocean. I am a **certified Scuba Diver**, a pursuit that has taught me as much about focus, discipline, and environmental awareness as it has about the world beneath the waves. Exploring marine life and mastering underwater navigation is my way of staying curious and connected to the world beyond the screen.
 
 As a longtime contributor and community leader, I currently serve as:
 

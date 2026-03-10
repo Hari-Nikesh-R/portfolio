@@ -19,6 +19,10 @@ Driven by a strong interest in learning and teaching, I began actively engaging 
 
 Beyond industry events, I regularly participate in college industrial programs — helping students understand new technologies and adopt a problem-solving mindset early in their careers. My goal is to contribute to shaping the next generation's perspective on applying technology meaningfully and effectively.
 
+### **Beyond Engineering**
+
+When I'm not building for the mobile ecosystem or leading community meetups, I explore the depths of the ocean. I am a **certified Scuba Diver**, a pursuit that has taught me as much about focus, discipline, and environmental awareness as it has about the world beneath the waves. Exploring marine life and mastering underwater navigation is my way of staying curious and connected to the world beyond the screen.
+
 As a longtime contributor and community leader, I currently serve as:
 
 - **Organizer of the Tamil Nadu Java User Group.**
