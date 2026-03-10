@@ -30,3 +30,4 @@ Featured:
 - [Harnessing the Power of the Vector API @ Sahaj Software](/community/harnessing-vector-api-sahaj/)
 - [AI event @ SAP](/community/ai-event-sap-2025/)
 - [Bangalore JUG meetup @ Infosys](/community/bangalore-jug-meetup-infosys/)
+- [Kafka Stream event @ Microsoft](/community/kafka-stream-event-microsoft/)
