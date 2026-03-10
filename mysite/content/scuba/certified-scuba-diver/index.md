@@ -1,20 +1,39 @@
 ---
-title: "Certified Scuba Diver"
-date: 2026-03-10
+title: "PADI Open Water Diver"
+date: 2026-03-01
 draft: false
-description: "Professional scuba diving certification and training details."
-tags: ["scuba", "certification", "diving"]
+description: "ISO 24801-2: Diver Level 2 (Autonomous Diver). Certified at Scuba Yogi, Neil Island."
+tags: ["scuba", "padi", "open-water", "andaman", "adventure"]
 ---
 
-# Overview
+# Certification Overview
 
-I am a certified scuba diver, having completed rigorous training that covers underwater physiology, dive safety, equipment maintenance, and environmental protection. 
+I am a certified **PADI Open Water Diver**, holding the international qualification for **ISO 24801-2: Diver Level 2 (Autonomous Diver)**. This certification marks the completion of a comprehensive training program that balances technical knowledge with practical underwater skills.
 
-# Key Learnings
+# Credential Details
 
-- **Buoyancy Control**: Mastering the art of staying neutral in the water.
-- **Dive Safety**: Preparedness for various underwater scenarios and buddy system protocols.
-- **Marine Ecology**: Understanding and respecting marine ecosystems and their fragile balance.
-- **Navigation**: Using compasses and natural landmarks to navigate underwater.
+- **PADI Number**: 2504AG6273
+- **Certification Date**: April 16, 2025
+- **Training Center**: [Scuba Yogi](https://scubayogi.in/) (Neil Island / Shaheed Dweep, South Andaman, India)
+- **Instructor**: Vikrant Man Singh
+- **Qualification**: ISO 24801-2 (Autonomous Diver)
 
-Exploring the underwater world has significantly enhanced my perspective on life, emphasizing the importance of calm, steady breathing, and the beauty of silence and observation.
+# Technical Competencies
+
+As an Open Water Diver, I am trained and certified to:
+- **Maximum Depth**: Dive up to **18 meters (60 feet)** globally.
+- **Autonomy**: Conduct no-decompression dives with a buddy of equal or higher certification level.
+- **Skills Mastered**: 
+    - Emergency weight drop and controlled emergency swimming ascents (CESA).
+    - Regulator recovery and mask clearing in depth.
+    - Buoyancy control and neutral trim execution.
+    - Underwater navigation using natural references and compasses.
+
+# The Neil Island Experience
+
+My certification was completed in the vibrant waters of **Neil Island (Shaheed Dweep)** in the Andaman and Nicobar Islands. Training at sites like *Lighthouse* and *Aquarium* provided exposure to:
+- Diverse marine life including tropical reef fish, sea snakes, and sea turtles.
+- Pristine coral ecosystems and varying current conditions.
+- Mastery of diving fundamentals in one of India's premier diving destinations.
+
+Scuba diving has become a vital part of my personal growth, offering a unique perspective on focus, environmental stewardship, and the discipline required to navigate complex, high-stakes environments.

@@ -1,6 +1,6 @@
 ---
 title: "🤿 Scuba Diving"
-date: 2026-03-10
+date: 2026-03-01
 draft: false
 description: "Exploring the depths: certifications, dive logs, and marine life discoveries."
 tags: ["scuba", "diving", "adventure", "ocean"]
@@ -18,4 +18,4 @@ Beyond the screen, I find balance and inspiration in the ocean. Scuba diving is 
 
 Featured:
 
-- [Certified Scuba Diver - PADI/SSI Certification](/portfolio/scuba/certified-scuba-diver/)
+- [PADI Open Water Diver](/portfolio/scuba/certified-scuba-diver/)
