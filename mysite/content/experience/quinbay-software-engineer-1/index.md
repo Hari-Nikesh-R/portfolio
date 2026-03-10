@@ -1,6 +1,6 @@
 ---
 title: "Software Engineer I @ Quinbay Technologies"
-date: 2026-03-11
+date: 2026-03-01
 draft: false
 description: "Jul 2023 – Jan 2026 | Coimbatore. Mobile Full Stack Developer on large-scale production systems."
 tags: ["software-engineer", "full-stack", "android", "spring-boot", "blibli"]

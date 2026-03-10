@@ -1,6 +1,6 @@
 ---
 title: "Freelance Projects & Industrial Technical Work"
-date: 2026-03-11
+date: 2026-03-01
 draft: false
 description: "Specialized technical consulting and industrial application development."
 tags: ["freelance", "android", "flutter", "spring-boot", "offline-first"]

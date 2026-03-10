@@ -1,6 +1,6 @@
 ---
 title: "💼 Experience"
-date: 2026-03-11
+date: 2026-03-01
 draft: false
 description: "Professional journey as a Software Engineer and Android Developer."
 tags: ["experience", "career", "android", "engineering"]

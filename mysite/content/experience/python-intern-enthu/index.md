@@ -1,6 +1,6 @@
 ---
 title: "Python Developer Intern @ Enthu Technology"
-date: 2026-03-11
+date: 2026-03-01
 draft: false
 description: "May 2021. Early career exploration in automation and computer vision."
 tags: ["internship", "python", "automation", "computer-vision"]
