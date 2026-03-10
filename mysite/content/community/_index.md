@@ -25,3 +25,4 @@ Featured:
 - [ADK Development in GCP @ DevOn](/community/adk-development-gcp-devon/)
 - [Gemini 2 pro “How to prompt better” @ Google](/community/gemini-2-pro-prompting-google/)
 - [Java and AI with “Venket” @ IBM Kochi](/community/java-and-ai-venket-ibm-kochi/)
+- [Better use of Cursor AI in work @ Oracle](/community/cursor-ai-oracle-2025/)
