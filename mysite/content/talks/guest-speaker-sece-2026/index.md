@@ -2,7 +2,7 @@
 title: "Guest Speaker @ Sri Eshwar College of Engineering - 2026"
 date: 2026-03-10
 draft: false
-featureimage: "images/thiran_sece_2026/thiran_sece_2026_1.heic"
+featureimage: "images/thiran_sece_2026/thiran_sece_2026_3.png"
 description: "Master Class on Agentic AI and hands-on session at Thiran Event 2026 hosted by Sri Eshwar College of Engineering."
 tags: ["ai", "agentic-ai", "event", "talks", "speaker", "academic", "masterclass"]
 ---
