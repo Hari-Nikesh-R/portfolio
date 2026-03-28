@@ -23,7 +23,7 @@ I am a certified **PADI Advanced Open Water Diver** (Adventure Diver). This cert
 
 # Training Details
 
-- Completed **5 Adventure Dives** as part of the certification process.
+- Completed **7 Adventure Dives** as part of the certification process.
 - **Deep Dive**: Successfully reached depths of **30+ meters (~110 feet)**, operating in high-pressure environments.
 - **Underwater Navigation**: Mastered compass and natural navigation techniques to find routes and return points reliably.
 - **Additional dives** focused on buoyancy control, resource management, and environment-based diving.
