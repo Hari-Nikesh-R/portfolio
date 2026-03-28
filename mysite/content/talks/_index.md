@@ -37,3 +37,4 @@ Featured:
 - [Guest Speaker @ Sri Eshwar College of Engineering - 2026](/portfolio/talks/guest-speaker-sece-2026/)
 - [Organizer of Venkat’s talk @ Tamil Nadu JUG Feb meetup- 2026](/portfolio/talks/organizer-venkat-talk-tnjug-feb-2026/)
 - [Organizer of Java AI event - March Edition 2026](/portfolio/talks/organizer-java-ai-march-2026/)
+- [Industrial Expert for DSA @ Sri Eshwar College of Engineering](/portfolio/talks/industrial-expert-dsa/)
