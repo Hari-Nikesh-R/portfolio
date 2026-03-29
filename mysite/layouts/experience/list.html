@@ -57,15 +57,31 @@
 
         {{ $isLast := eq $i (sub $numPages 1) }}
 
+        {{/* Resolve logo image URL once per item */}}
+        {{ $logoImg := "" }}
+        {{ with $page.Params.logo_image }}
+          {{ $path := printf "images/company logo/%s" . }}
+          {{ $res := resources.Get $path }}
+          {{ if $res }}
+            {{ $logoImg = $res.RelPermalink }}
+          {{ end }}
+        {{ end }}
+
         <article class="li-exp-item{{ if $sameAsPrev }} li-exp-item--sub{{ end }}{{ if $isLast }} li-exp-item--last{{ end }}">
 
           {{/* Left column: logo + optional connector line */}}
           <div class="li-exp-left">
             {{ if not $sameAsPrev }}
               <a href="{{ $page.RelPermalink }}" class="li-logo-wrap" tabindex="-1" aria-hidden="true">
-                <div class="li-logo" style="background-color: {{ $page.Params.logo_color | default "#6b7280" }}">
-                  {{ $page.Params.logo_initials | default "??" }}
-                </div>
+                {{ if $logoImg }}
+                  <div class="li-logo li-logo--img">
+                    <img src="{{ $logoImg }}" alt="{{ $page.Params.company }} logo" loading="lazy" />
+                  </div>
+                {{ else }}
+                  <div class="li-logo" style="background-color: {{ $page.Params.logo_color | default "#6b7280" }}">
+                    {{ $page.Params.logo_initials | default "??" }}
+                  </div>
+                {{ end }}
               </a>
             {{ else }}
               <div class="li-logo-spacer"></div>

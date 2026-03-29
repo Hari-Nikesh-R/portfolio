@@ -14,6 +14,7 @@ location: "India"
 work_type: "Remote"
 logo_initials: "DS"
 logo_color: "#f59e0b"
+logo_image: "dosmartie_logo.png"
 ---
 
 # Building a Learning Ecosystem

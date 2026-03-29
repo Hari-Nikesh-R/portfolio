@@ -14,6 +14,7 @@ location: "Coimbatore, Tamil Nadu, India"
 work_type: "On-site"
 logo_initials: "QT"
 logo_color: "#0a66c2"
+logo_image: "quinbay_logo.png"
 ---
 
 # Career Roots

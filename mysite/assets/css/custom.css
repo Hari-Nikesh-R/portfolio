@@ -130,6 +130,27 @@
   opacity: 0.85;
 }
 
+/* Image logo variant */
+.li-logo--img {
+  background: #ffffff !important;
+  padding: 3px;
+  border: 1px solid #e2e8f0;
+  overflow: hidden;
+}
+
+.dark .li-logo--img {
+  background: #ffffff !important;
+  border-color: #3a3f5c;
+}
+
+.li-logo--img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 5px;
+  display: block;
+}
+
 /* Spacer when same company (no logo shown) */
 .li-logo-spacer {
   width: 48px;

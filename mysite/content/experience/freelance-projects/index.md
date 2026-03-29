@@ -5,15 +5,16 @@ draft: false
 description: "Specialized technical consulting in offline-first Android and full-stack mobile application development."
 tags: ["freelance", "android", "flutter", "spring-boot", "offline-first"]
 weight: 5
-company: "Independent"
+company: "Technoduces"
 role: "Freelance Mobile Developer"
 employment_type: "Freelance"
-start_date: "Dec 2023"
-end_date: "Present"
+start_date: "Dec 2022"
+end_date: "Jan 2024"
 location: "India"
 work_type: "Remote"
-logo_initials: "FL"
-logo_color: "#10b981"
+logo_initials: "TD"
+logo_color: "#e63946"
+logo_image: "technoduces_logo.png"
 ---
 
 # Technical Consulting & Development

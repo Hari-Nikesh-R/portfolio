@@ -14,6 +14,7 @@ location: "India"
 work_type: "On-site"
 logo_initials: "ET"
 logo_color: "#8b5cf6"
+logo_image: "enthu_tech_logo.png"
 ---
 
 # Early Career Exploration
