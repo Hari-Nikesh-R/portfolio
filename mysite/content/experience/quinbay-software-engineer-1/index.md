@@ -2,8 +2,18 @@
 title: "Software Engineer I @ Quinbay Technologies"
 date: 2023-10-01
 draft: false
-description: "Oct 2023 – Jan 2026 | Coimbatore. Mobile Full Stack Developer on large-scale production systems."
+description: "Mobile Full Stack Developer on large-scale production systems serving millions of users."
 tags: ["software-engineer", "full-stack", "android", "spring-boot", "blibli"]
+weight: 2
+company: "Quinbay Technologies"
+role: "Software Engineer I"
+employment_type: "Full-time"
+start_date: "Oct 2023"
+end_date: "Jan 2026"
+location: "Coimbatore, Tamil Nadu, India"
+work_type: "On-site"
+logo_initials: "QT"
+logo_color: "#0a66c2"
 ---
 
 # Role Overview

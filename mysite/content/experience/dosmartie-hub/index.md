@@ -2,8 +2,18 @@
 title: "Founder & Education Mentor @ DoSmartie Hub"
 date: 2024-01-01
 draft: false
-description: "Jan 2024 – Present. Empowering students through accessible technical education."
+description: "Empowering students through accessible technical education via YouTube, Instagram, and hands-on mentorship."
 tags: ["founder", "mentor", "education", "content-creation", "dosmartie"]
+weight: 4
+company: "DoSmartie Hub"
+role: "Founder & Education Mentor"
+employment_type: "Self-employed"
+start_date: "Jan 2024"
+end_date: "Present"
+location: "India"
+work_type: "Remote"
+logo_initials: "DS"
+logo_color: "#f59e0b"
 ---
 
 # Building a Learning Ecosystem

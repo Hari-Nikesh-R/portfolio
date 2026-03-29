@@ -2,8 +2,18 @@
 title: "Freelance Projects & Industrial Technical Work"
 date: 2026-03-01
 draft: false
-description: "Specialized technical consulting and industrial application development."
+description: "Specialized technical consulting in offline-first Android and full-stack mobile application development."
 tags: ["freelance", "android", "flutter", "spring-boot", "offline-first"]
+weight: 5
+company: "Independent"
+role: "Freelance Mobile Developer"
+employment_type: "Freelance"
+start_date: "Dec 2023"
+end_date: "Present"
+location: "India"
+work_type: "Remote"
+logo_initials: "FL"
+logo_color: "#10b981"
 ---
 
 # Technical Consulting & Development

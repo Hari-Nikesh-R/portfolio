@@ -2,8 +2,18 @@
 title: "Python Developer Intern @ Enthu Technology"
 date: 2021-05-01
 draft: false
-description: "May 2021. Early career exploration in automation and computer vision."
+description: "Early career exploration in Python automation, computer vision (OpenCV), and Selenium scripting."
 tags: ["internship", "python", "automation", "computer-vision"]
+weight: 6
+company: "Enthu Technology Solutions"
+role: "Python Developer Intern"
+employment_type: "Internship"
+start_date: "May 2021"
+end_date: "Jun 2021"
+location: "India"
+work_type: "On-site"
+logo_initials: "ET"
+logo_color: "#8b5cf6"
 ---
 
 # Early Career Exploration

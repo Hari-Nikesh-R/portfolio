@@ -1,3 +1,277 @@
+/* ============================================================
+   LinkedIn-style Experience Section
+   ============================================================ */
+
+.li-exp-card {
+  max-width: 700px;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #ffffff;
+}
+
+.dark .li-exp-card {
+  background: #1e2028;
+  border-color: #2d3146;
+}
+
+/* Card header */
+.li-exp-card-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 16px 20px 12px;
+  border-bottom: 1px solid #e2e8f0;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #1a202c;
+}
+
+.dark .li-exp-card-header {
+  color: #e2e8f0;
+  border-bottom-color: #2d3146;
+}
+
+.li-exp-icon {
+  width: 22px;
+  height: 22px;
+  color: #0a66c2;
+  flex-shrink: 0;
+}
+
+.dark .li-exp-icon {
+  color: #70b5f9;
+}
+
+.li-view-linkedin {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: auto;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: #0a66c2;
+  text-decoration: none;
+  padding: 4px 10px;
+  border-radius: 20px;
+  border: 1px solid #0a66c2;
+  transition: background 0.15s, color 0.15s;
+}
+
+.li-view-linkedin svg {
+  width: 12px;
+  height: 12px;
+}
+
+.li-view-linkedin:hover {
+  background: #0a66c2;
+  color: #ffffff;
+}
+
+.dark .li-view-linkedin {
+  color: #70b5f9;
+  border-color: #70b5f9;
+}
+
+.dark .li-view-linkedin:hover {
+  background: #70b5f9;
+  color: #1a202c;
+}
+
+/* Experience list */
+.li-exp-list {
+  padding: 8px 0 4px;
+}
+
+/* Single experience item */
+.li-exp-item {
+  display: flex;
+  gap: 0;
+  padding: 12px 20px 0;
+}
+
+.li-exp-item--last {
+  padding-bottom: 16px;
+}
+
+/* Left column (logo + connector) */
+.li-exp-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+  width: 52px;
+  margin-right: 14px;
+}
+
+/* Company logo badge */
+.li-logo-wrap {
+  display: block;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+
+.li-logo {
+  width: 48px;
+  height: 48px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0.02em;
+  flex-shrink: 0;
+  transition: opacity 0.15s;
+}
+
+.li-logo-wrap:hover .li-logo {
+  opacity: 0.85;
+}
+
+/* Spacer when same company (no logo shown) */
+.li-logo-spacer {
+  width: 48px;
+  height: 10px;
+}
+
+/* Vertical connector line between grouped roles */
+.li-connector {
+  width: 2px;
+  flex: 1;
+  min-height: 12px;
+  background: #cbd5e0;
+  border-radius: 1px;
+  margin-top: 4px;
+  margin-bottom: 0;
+}
+
+.dark .li-connector {
+  background: #3a3f5c;
+}
+
+/* Right column (text content) */
+.li-exp-right {
+  flex: 1;
+  min-width: 0;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #edf2f7;
+}
+
+.li-exp-item--last .li-exp-right,
+.li-exp-item--sub:last-of-type .li-exp-right {
+  border-bottom: none;
+}
+
+.dark .li-exp-right {
+  border-bottom-color: #2d3146;
+}
+
+/* Suppress bottom border on the final item */
+.li-exp-item--last .li-exp-right {
+  border-bottom: none;
+}
+
+/* Company name (shown once per group) */
+.li-company-name {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #2d3748;
+  margin: 4px 0 2px;
+  line-height: 1.3;
+}
+
+.dark .li-company-name {
+  color: #a0aec0;
+}
+
+/* Role title */
+.li-role-title {
+  font-size: 0.98rem;
+  font-weight: 600;
+  color: #1a202c;
+  margin: 2px 0 3px;
+  line-height: 1.4;
+}
+
+.dark .li-role-title {
+  color: #e2e8f0;
+}
+
+.li-role-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.li-role-title a:hover {
+  color: #0a66c2;
+  text-decoration: underline;
+}
+
+.dark .li-role-title a:hover {
+  color: #70b5f9;
+}
+
+/* Employment type + date range */
+.li-role-meta {
+  font-size: 0.8rem;
+  color: #718096;
+  margin: 0 0 2px;
+  line-height: 1.5;
+}
+
+.dark .li-role-meta {
+  color: #718096;
+}
+
+/* Location + work type */
+.li-role-location {
+  font-size: 0.78rem;
+  color: #a0aec0;
+  margin: 0 0 6px;
+  line-height: 1.5;
+}
+
+/* Description */
+.li-role-desc {
+  font-size: 0.85rem;
+  color: #4a5568;
+  margin: 6px 0 8px;
+  line-height: 1.6;
+}
+
+.dark .li-role-desc {
+  color: #a0aec0;
+}
+
+/* Tags */
+.li-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.li-tag {
+  font-size: 0.7rem;
+  font-weight: 500;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background: #edf2f7;
+  color: #4a5568;
+  letter-spacing: 0.02em;
+}
+
+.dark .li-tag {
+  background: #2d3146;
+  color: #a0aec0;
+}
+
+/* ============================================================
+   Homepage profile image: larger and left-aligned
+   ============================================================ */
+
 /* Homepage profile image: larger and left-aligned */
 .home-profile-image {
   float: left;

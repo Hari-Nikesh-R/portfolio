@@ -2,8 +2,18 @@
 title: "Internship Track @ Quinbay Technologies"
 date: 2022-07-11
 draft: false
-description: "Jul 2022 – Aug 2023. Growing from SDE Intern to Mobile Full Stack Intern."
+description: "Growing from SDE Intern to Mobile Full Stack Intern across Android and Spring Boot."
 tags: ["internship", "android", "full-stack", "spring-boot", "jetpack-compose"]
+weight: 3
+company: "Quinbay Technologies"
+role: "Mobile Full Stack Intern → SDE Intern"
+employment_type: "Internship"
+start_date: "Jul 2022"
+end_date: "Aug 2023"
+location: "Coimbatore, Tamil Nadu, India"
+work_type: "On-site"
+logo_initials: "QT"
+logo_color: "#0a66c2"
 ---
 
 # Career Roots
