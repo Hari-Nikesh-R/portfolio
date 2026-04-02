@@ -8,6 +8,7 @@ location: "Dharwad, Karnataka, India"
 work_type: "On-site"
 logo_initials: "IIIT"
 logo_color: "#0a66c2"
+logo_image: "IIIT-Dharwad-Logo.png"
 date: 2026-04-02
 draft: false
 description: "MTech on Data science and Artificial Intelligence"

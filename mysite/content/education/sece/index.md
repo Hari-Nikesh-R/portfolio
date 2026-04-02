@@ -8,6 +8,7 @@ location: "Coimbatore, Tamil Nadu, India"
 work_type: "On-site"
 logo_initials: "SECE"
 logo_color: "#1e3a8a"
+logo_image: "sece_logo.jpg"
 date: 2024-11-19
 draft: false
 description: "Bachelor of Engineering on Computer and communication Engineering"

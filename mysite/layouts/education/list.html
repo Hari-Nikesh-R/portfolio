@@ -60,7 +60,7 @@
         {{/* Resolve logo image URL once per item */}}
         {{ $logoImg := "" }}
         {{ with $page.Params.logo_image }}
-          {{ $path := printf "images/company logo/%s" . }}
+          {{ $path := printf "images/education_logo/%s" . }}
           {{ $res := resources.Get $path }}
           {{ if $res }}
             {{ $logoImg = $res.RelPermalink }}
