@@ -20,6 +20,11 @@
   pageRef = "talks"
   weight = 20
 
+[[main]]
+  name = "Education"
+  pageRef = "education"
+  weight = 30
+
 
 
 [[main]]

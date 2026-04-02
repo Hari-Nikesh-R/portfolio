@@ -1,0 +1,133 @@
+{{ define "main" }}
+  {{ .Scratch.Set "scope" "list" }}
+
+  <header>
+    {{ if .Params.showBreadcrumbs | default (site.Params.list.showBreadcrumbs | default false) }}
+      {{ partial "breadcrumbs.html" . }}
+    {{ end }}
+    <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+    <div class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+      {{ partial "article-meta/list.html" (dict "context" . "scope" "single") }}
+    </div>
+  </header>
+
+  {{/* Intro description */}}
+  {{ with .Content }}
+    <section class="prose dark:prose-invert mt-4 mb-8 max-w-full">
+      {{ . }}
+    </section>
+  {{ end }}
+
+  {{/* LinkedIn-style Education Card */}}
+  <div class="li-exp-card">
+    <div class="li-exp-card-header">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="li-exp-icon" aria-hidden="true">
+        <path d="M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3zm6.82 6L12 12.72 5.18 9 12 5.28 18.82 9zM17 15.99l-5 2.73-5-2.73v-3.72L12 15l5-2.73v3.72z"/>
+      </svg>
+      <span>Education</span>
+      <a href="https://www.linkedin.com/in/hari-nikesh-r-930bb723a/details/education/"
+         target="_blank" rel="noopener noreferrer" class="li-view-linkedin">
+        View on LinkedIn
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+          <path fill-rule="evenodd" d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z" clip-rule="evenodd" />
+        </svg>
+      </a>
+    </div>
+
+    {{ $pages := .Pages.ByWeight }}
+    {{ $numPages := len $pages }}
+
+    <div class="li-exp-list">
+      {{ range $i, $page := $pages }}
+        {{ $sameAsPrev := false }}
+        {{ if gt $i 0 }}
+          {{ $prev := index $pages (sub $i 1) }}
+          {{ if eq $page.Params.company $prev.Params.company }}
+            {{ $sameAsPrev = true }}
+          {{ end }}
+        {{ end }}
+
+        {{ $sameAsNext := false }}
+        {{ if lt (add $i 1) $numPages }}
+          {{ $next := index $pages (add $i 1) }}
+          {{ if eq $page.Params.company $next.Params.company }}
+            {{ $sameAsNext = true }}
+          {{ end }}
+        {{ end }}
+
+        {{ $isLast := eq $i (sub $numPages 1) }}
+
+        {{/* Resolve logo image URL once per item */}}
+        {{ $logoImg := "" }}
+        {{ with $page.Params.logo_image }}
+          {{ $path := printf "images/company logo/%s" . }}
+          {{ $res := resources.Get $path }}
+          {{ if $res }}
+            {{ $logoImg = $res.RelPermalink }}
+          {{ end }}
+        {{ end }}
+
+        <article class="li-exp-item{{ if $sameAsPrev }} li-exp-item--sub{{ end }}{{ if $isLast }} li-exp-item--last{{ end }}">
+
+          {{/* Left column: logo + optional connector line */}}
+          <div class="li-exp-left">
+            {{ if not $sameAsPrev }}
+              <a href="{{ $page.RelPermalink }}" class="li-logo-wrap" tabindex="-1" aria-hidden="true">
+                {{ if $logoImg }}
+                  <div class="li-logo li-logo--img">
+                    <img src="{{ $logoImg }}" alt="{{ $page.Params.company }} logo" loading="lazy" />
+                  </div>
+                {{ else }}
+                  <div class="li-logo" style="background-color: {{ $page.Params.logo_color | default "#6b7280" }}">
+                    {{ $page.Params.logo_initials | default "??" }}
+                  </div>
+                {{ end }}
+              </a>
+            {{ else }}
+              <div class="li-logo-spacer"></div>
+            {{ end }}
+            {{ if $sameAsNext }}
+              <div class="li-connector" aria-hidden="true"></div>
+            {{ end }}
+          </div>
+
+          {{/* Right column: role details */}}
+          <div class="li-exp-right">
+            {{ if not $sameAsPrev }}
+              <p class="li-company-name">{{ $page.Params.company | default "Institution" }}</p>
+            {{ end }}
+
+            <h3 class="li-role-title">
+              <a href="{{ $page.RelPermalink }}">{{ $page.Params.role | default $page.Title }}</a>
+            </h3>
+
+            <p class="li-role-meta">
+              {{- with $page.Params.employment_type -}}{{ . }} &middot; {{ end -}}
+              {{- $page.Params.start_date -}}&thinsp;&ndash;&thinsp;{{- $page.Params.end_date | default "Present" -}}
+            </p>
+
+            {{ with $page.Params.location }}
+              <p class="li-role-location">
+                {{- . -}}{{ with $page.Params.work_type }} &middot; {{ . }}{{ end }}
+              </p>
+            {{ end }}
+
+            {{ with $page.Description }}
+              <p class="li-role-desc">{{ . }}</p>
+            {{ end }}
+
+            {{ with $page.Params.tags }}
+              <div class="li-tags">
+                {{ range . }}
+                  <span class="li-tag">{{ . }}</span>
+                {{ end }}
+              </div>
+            {{ end }}
+          </div>
+
+        </article>
+      {{ end }}
+    </div>
+  </div>
+
+{{ end }}
