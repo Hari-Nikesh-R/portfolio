@@ -1,6 +1,6 @@
 ---
 title: "Speaker @ Blibli’s learning hack week"
-date: 2026-02-26
+date: 2025-04-27
 draft: false
 featureimage: "images/ss_firebase_2025/ss_firebase_2024_1.png"
 description: "Event Summary and My Contribution as a Speaker at Blibli’s Learning Hack Week."
@@ -24,5 +24,4 @@ Over several weeks of research and experimentation, I conducted an in-depth expl
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_ml-vertex-machine-activity-7322145903484567552-FxzF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

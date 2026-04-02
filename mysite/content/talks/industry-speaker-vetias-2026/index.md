@@ -1,6 +1,6 @@
 ---
 title: "Industry Speaker @ VETIAS, Erode 2026"
-date: 2026-02-28
+date: 2026-01-11
 draft: false
 featureimage: "images/vetias_erode_is_2026/vetias_erode_is_2026_1.jpg"
 description: "Event Summary and My Contribution as an Industry Speaker at VETIAS Erode on project development and practical implementation."
@@ -34,5 +34,4 @@ Additionally, I interacted with faculty members to exchange insights on mentorin
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_vetias-projectdevelopment-communitylearning-activity-7416166075429568512-qoBH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

@@ -1,6 +1,6 @@
 ---
 title: "Industry Speaker @ SNS College of Engineering, Coimbatore, Tamil Nadu 2025"
-date: 2026-03-01
+date: 2025-02-08
 draft: false
 featureimage: "images/sns_industrial_speaker_2025/sns_industrial_speaker_2025_1.png"
 description: "Event Summary and My Contribution as an Industry Speaker at SNS College of Engineering on DSA and its real-world impact."
@@ -26,5 +26,4 @@ As the speaker for this session, I guided students through essential DSA concept
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_dsa-interviewprep-collaborativelearning-activity-7293954224550199296-d2_j?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

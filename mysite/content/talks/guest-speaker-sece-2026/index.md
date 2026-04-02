@@ -1,6 +1,6 @@
 ---
 title: "Guest Speaker @ Sri Eshwar College of Engineering - 2026"
-date: 2026-03-10
+date: 2026-02-05
 draft: false
 featureimage: "images/thiran_sece_2026/thiran_sece_2026_3.png"
 description: "Master Class on Agentic AI and hands-on session at Thiran Event 2026 hosted by Sri Eshwar College of Engineering."
@@ -43,5 +43,4 @@ Overall, Thiran Event 2026 was a memorable experience that allowed me not only t
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_thiran-senior-agentic-activity-7426474299898863616-dZlR?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

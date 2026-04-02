@@ -1,6 +1,6 @@
 ---
 title: "Speaker @ JavaFest 2024"
-date: 2026-02-26
+date: 2024-11-26
 draft: false
 featureimage: "images/profile_speaker_image.png"
 description: "Event Summary and My Contribution as the youngest speaker at JavaFest 2024."
@@ -28,5 +28,4 @@ Beyond the session, I engaged with industry experts from Oracle, Infosys, Banfic
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_javafest-jug-passion-activity-7267232043325878272-c3Dp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

@@ -1,6 +1,6 @@
 ---
 title: "Organizer and Speaker @ JavaFest 2025"
-date: 2026-02-26
+date: 2025-11-10
 draft: false
 featureimage: "images/jf_2025/jf_2025_speaker_1.png"
 description: "Event Summary and My Contribution as an Organizer and Speaker at JavaFest 2025."
@@ -30,5 +30,4 @@ I played a key role in curating the Java + AI content tracks, shortlisting impac
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_organizers-javafest2025-javacommunity-activity-7393463665628372992-VfT0?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

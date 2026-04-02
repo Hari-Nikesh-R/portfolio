@@ -1,6 +1,6 @@
 ---
 title: "Student Mentor @ Krishna College of Arts and Science, Coimbatore - 2026"
-date: 2026-03-10
+date: 2026-01-12
 draft: false
 featureimage: "images/krishna_sm_2026/krishna_sm_2026_1.jpeg"
 description: "A collaborative session for the students of Computer Science and Arts at Krishna College of Arts and Science, Coimbatore."
@@ -34,5 +34,4 @@ The interaction not only allowed me to contribute to the students’ learning jo
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_studentengagement-innovationmindset-youngminds-activity-7423326030179975168-Yc8T?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

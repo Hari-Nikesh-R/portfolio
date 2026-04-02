@@ -1,6 +1,6 @@
 ---
 title: "Speaker @ EPAM systems, Chennai 2024"
-date: 2026-02-28
+date: 2024-09-28
 draft: false
 featureimage: "images/epam_tnjug_2024/epam_tnjug_1.png"
 description: "Event Summary and My Contribution as a Speaker at EPAM Systems, Chennai on SQLComponents.org."
@@ -26,5 +26,4 @@ Beyond the technical talk, I highlighted the collaborative spirit behind the pro
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_opensource-innovation-sql-activity-7245789459349184512-oWSf?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

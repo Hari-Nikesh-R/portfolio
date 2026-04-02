@@ -27,3 +27,9 @@ Coming from a Java and Kotlin background, revisiting C programming was a refresh
 To ensure effective teaching, I spent time exploring C concepts in depth — particularly memory management, pointers, and internal working layers — so I could explain the fundamentals clearly and practically.
 
 This experience was not just about teaching, but also about learning and growing alongside the students.
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_dsa-ugcPost-7443714054671540224-zdU_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

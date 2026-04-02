@@ -1,6 +1,6 @@
 ---
 title: "Community speaker @ Sri Eshwar College of Engineering 2025"
-date: 2026-03-01
+date: 2025-10-29
 draft: false
 featureimage: "images/sece_cs_2025/sece_cs_2025_1.png"
 description: "Event Summary and My Contribution as a Community Speaker at Sri Eshwar College of Engineering revisit."
@@ -23,5 +23,4 @@ As an alumnus returning to SECE, I had the privilege of guiding the next generat
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_alumnitalk-srieshwarcollegeofengineering-activity-7389321038607773697-Gvy4?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

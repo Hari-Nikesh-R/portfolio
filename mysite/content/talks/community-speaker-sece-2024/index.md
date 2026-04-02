@@ -25,4 +25,3 @@ As a mentor during this engagement, I had the opportunity to share my experience
 # Relevant Links
 
 - **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)

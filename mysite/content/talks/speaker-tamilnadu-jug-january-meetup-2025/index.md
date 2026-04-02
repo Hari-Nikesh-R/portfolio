@@ -1,6 +1,6 @@
 ---
 title: "Speaker @ Tamilnadu JUG - January meetup 2025"
-date: 2026-03-01
+date: 2025-02-10
 draft: false
 featureimage: "images/softashram_chennai_2025/softashram_chennai_2025_1.png"
 description: "Event Summary and My Contribution as a Speaker at the Tamilnadu JUG January meetup at Software Ashram."
@@ -28,5 +28,4 @@ The live demo showcased practical techniques teams can adopt for seamless migrat
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_springboot-javacommunity-openrewrite-activity-7294558168410402817-mIip?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

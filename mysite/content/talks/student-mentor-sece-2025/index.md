@@ -1,6 +1,6 @@
 ---
 title: "Student mentor @ Sri Eshwar College of Engineering, Coimbatore, Tamil Nadu 2025"
-date: 2026-03-01
+date: 2024-09-20
 draft: false
 featureimage: "images/sece_student_mentor_2025/sece_student_mentor_2025_1.png"
 description: "Event Summary and My Contribution as a Student Mentor at SECE Coimbatore."
@@ -22,5 +22,4 @@ As an alumnus returning to my college, I delivered a motivational talk that blen
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_alumniconnections-inspirethefuture-knowledgesharing-activity-7242730920573607936-IDT9?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

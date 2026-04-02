@@ -1,6 +1,6 @@
 ---
 title: "Organiser @ Tamilnadu JUG - March meetup 2025 with GDG on campus in SECE"
-date: 2026-02-28
+date: 2025-03-25
 draft: false
 featureimage: "images/tnjug_sece_march_2025/tnjug_sece_march_2025_1.png"
 description: "Event Summary and My Contribution as an Organiser at the Tamilnadu JUG March Edition with GDG on Campus SECE."
@@ -30,5 +30,4 @@ I worked hand-in-hand with my co-organizer Prabu Dev, whose dedication was instr
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_tamiljug-networking-techcommunity-activity-7310241135342276608-LgfR?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

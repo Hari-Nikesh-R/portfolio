@@ -1,6 +1,6 @@
 ---
 title: "Organiser @ Tamilnadu JUG August meetup 2025"
-date: 2026-02-26
+date: 2025-08-30
 draft: false
 featureimage: "images/jug__kongu_august_2025/jug__kongu_august_2025_0.png"
 description: "Event Summary and My Contribution as an Organiser at the Tamilnadu JUG August meetup 2025 at Kongu Engineering College."
@@ -28,5 +28,4 @@ Being part of an organizing team that successfully brought together industry exp
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_java-community-tnjug-activity-7370621211216834560-ig6w?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

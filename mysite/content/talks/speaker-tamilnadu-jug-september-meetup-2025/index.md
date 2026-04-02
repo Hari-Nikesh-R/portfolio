@@ -1,6 +1,6 @@
 ---
 title: "Speaker @ Tamilnadu JUG September meetup 2025"
-date: 2026-02-26
+date: 2025-09-28
 draft: false
 featureimage: "images/jug_concurrency_2025/jug_concurrency_2025_1.png"
 description: "Event Summary and My Contribution as a Speaker at the Tamilnadu JUG September meetup 2025."
@@ -24,5 +24,4 @@ As both an organizer and a speaker, I played a dual role in shaping the success 
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_java-concurrency-virtualthreads-activity-7377953186231304192-Jh4u?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

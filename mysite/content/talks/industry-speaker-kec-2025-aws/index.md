@@ -1,6 +1,6 @@
 ---
 title: "Industry Speaker @ Kongu Engineering College, Tamil nadu 2025"
-date: 2026-03-01
+date: 2024-09-29
 draft: false
 featureimage: "images/industry_speaker_kec_2025/industry_speaker_kec_2025_1.png"
 description: "An interactive AWS-focused cloud workshop at Kongu Engineering College sharing cloud fundamentals and hands-on experiences."
@@ -28,5 +28,4 @@ As a co-facilitator of the workshop alongside Vignesh Ravichandran, I contribute
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_awsworkshop-knowledgesharing-techeducation-activity-7246121172378009600-I7QR?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

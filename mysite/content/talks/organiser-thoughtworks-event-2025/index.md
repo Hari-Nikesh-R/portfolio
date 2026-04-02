@@ -1,6 +1,6 @@
 ---
 title: "Organiser @ ThoughtWorks event 2025"
-date: 2026-02-26
+date: 2025-11-05
 draft: false
 featureimage: "images/cbe_thoughtworks_2025/thoughtworks_1.png"
 description: "Event Summary and My Contribution as an Organiser at the ThoughtWorks Coimbatore event."
@@ -26,5 +26,4 @@ As one of the organizers, I played a key role in planning, coordinating, and exe
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_thoughtworks-novembermeetup-javacommunity-activity-7391670669199118336-o_bw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

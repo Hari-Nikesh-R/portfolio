@@ -1,6 +1,6 @@
 ---
 title: "Organizer of Venkat’s talk @ Tamil Nadu JUG Feb meetup- 2026"
-date: 2026-03-10
+date: 2026-02-07
 draft: false
 featureimage: "images/tnjug_venket_feb_2026/tnjug_venket_feb_2026_1.png"
 description: "Coordinating and hosting a globally respected speaker, Dr. Venkat Subramaniam, for the Tamil Nadu Java User Group at Sri Eshwar College of Engineering."
@@ -59,5 +59,4 @@ The recognition received during the event from both Venkat Subramaniam and indus
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_javacommunity-javadevelopers-tamilnadujavagroup-activity-7426130792466223104-_8IB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

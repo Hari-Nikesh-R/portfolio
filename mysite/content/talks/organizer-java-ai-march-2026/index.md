@@ -1,6 +1,6 @@
 ---
 title: "Organizer of Java AI event - March Edition 2026"
-date: 2026-03-10
+date: 2026-03-08
 draft: false
 featureimage: "images/java_ai_march_edition_2026/java_ai_march_edition_2026_1.png"
 description: "Organizing the Java AI Day – March Edition 2026, a vibrant community-driven event by the Tamil Nadu Java User Group exploring Java and AI."
@@ -64,5 +64,4 @@ For me personally, organizing this event was both challenging and rewarding. See
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_tnjug-tamilnadujug-javacommunity-activity-7436348947373252608-bmcZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

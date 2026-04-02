@@ -1,6 +1,6 @@
 ---
 title: "Industry Speaker @ Kongu Engineering College, Erode, Tamil Nadu 2025"
-date: 2026-02-28
+date: 2025-09-22
 draft: false
 featureimage: "images/kec_guest_2025/kec_guest_2025_1.png"
 description: "Event Summary and My Contribution as an Industry Speaker at KEC on Artificial Intelligence."
@@ -24,5 +24,4 @@ As the invited speaker for this session, I had the opportunity to guide students
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_artificial-intelligence-students-activity-7375879862668095488-euGT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

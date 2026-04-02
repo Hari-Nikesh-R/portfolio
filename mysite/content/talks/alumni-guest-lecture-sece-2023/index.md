@@ -1,6 +1,6 @@
 ---
 title: "Alumini Guest Lecture @ Sri Eshwar College of Engineering 2023"
-date: 2026-03-01
+date: 2023-10-14
 draft: false
 featureimage: "images/sece_alumini_gl_2023/sece_alumini_gl_2023_0.png"
 description: "Event Summary and My Contribution as an Alumni Guest Lecturer at Sri Eshwar College of Engineering 2023."
@@ -26,5 +26,4 @@ As an alumnus returning to my college, I had the privilege of delivering a sessi
 
 # Relevant Links
 
-- **LinkedIn:** [Post Link](https://www.linkedin.com/feed/)
-- **Event:** [Specific Link](https://example.com)
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_alumnitalk-mobileappdevelopment-java-activity-7118948485852262400-g950?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)
