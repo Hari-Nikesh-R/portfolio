@@ -17,9 +17,9 @@ But this recognition is not just for me—it’s for all the juniors with whom I
 
 This journey has been filled with innovative ideas, creative projects, and meaningful collaborations that shaped my growth and understanding. Standing on that stage, receiving this honor in front of my juniors, was a moment of immense pride and gratitude.
 
-💡 **Learning is truly a two-way street**—when we share knowledge, we grow together.
+**Learning is truly a two-way street**—when we share knowledge, we grow together.
 
-Feeling honored, thankful, and inspired to continue this cycle of learning and giving back. 🙏
+Feeling honored, thankful, and inspired to continue this cycle of learning and giving back. 
 
 ---
 
