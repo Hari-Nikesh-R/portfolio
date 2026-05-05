@@ -1,5 +1,5 @@
 ---
-title: "Tech Tour @ Rameshwaram"
+title: "Tech Tour @ Rameshwaram 2026"
 date: 2026-05-05
 draft: false
 featureimage: "images/rameshwaram_tech_tour/rameshwaram_tech_tour_1.jpg"
