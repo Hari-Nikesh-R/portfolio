@@ -1,21 +1,15 @@
 ---
 title: "🚀 Projects"
-date: 2026-02-26
+date: 2026-05-06
 draft: false
-description: "Projects I’m building in public: products, tools, and community-driven experiments."
-tags: ["projects", "product", "community", "java"]
+description: "Selected work across Android, Flutter, Java, and community platforms."
+tags: ["projects", "product", "android", "flutter", "java", "community"]
 layout: "list"
 showCards: true
 showSummary: true
 cardView: true
 ---
 
-I build projects that make learning and community participation easier.
+I build products and tools that solve real operational problems—across mobile apps, developer tooling, and community platforms.
 
-- **Basketball Community App**: connect players, runs, and local groups
-- **Knowledge Base**: Notion-style structure for personal + community notes
-
-Featured:
-
-- [Basketball Community App](/portfolio/projects/basketball-community-app/)
-- [Notion-style Knowledge Base](/portfolio/projects/notion-style-knowledge-base/)
+You can also view the complete list on LinkedIn: `https://www.linkedin.com/in/hari-nikesh-r-930bb723a/details/projects/`
