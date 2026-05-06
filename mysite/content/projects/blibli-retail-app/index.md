@@ -26,4 +26,4 @@ Blibli is the mobile shopping app by Blibli (PT Global Digital Niaga) for Androi
 
 ## Links
 
-- Play Store: `https://play.google.com/store/apps/details?id=blibli.mobile.commerce&hl=en_IN`
+- [Google Play](https://play.google.com/store/apps/details?id=blibli.mobile.commerce&hl=en_IN)

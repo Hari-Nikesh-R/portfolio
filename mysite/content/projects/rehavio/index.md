@@ -49,5 +49,5 @@ Deployed for the same coach whose workflow originally inspired the idea, solving
 
 ## Links
 
-- Demo: `https://drive.google.com/drive/folders/1PsOh0-uKnBibUelA8p1eem7iTSXYrgU8`
-- LinkedIn post: `https://www.linkedin.com/feed/update/urn:li:activity:7419053529358737408/`
+- [Demo folder (Google Drive)](https://drive.google.com/drive/folders/1PsOh0-uKnBibUelA8p1eem7iTSXYrgU8)
+- [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7419053529358737408/)

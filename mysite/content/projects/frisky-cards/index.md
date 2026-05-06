@@ -17,6 +17,6 @@ Frisky Cards is a memory-based card matching game designed to test cognitive ski
 
 ## Links
 
-- GitHub: `https://github.com/Hari-Nikesh-R/frisky_cards`
-- Demo video: `https://drive.google.com/file/d/1vH9a1WkNsRwcCISSW07fwwcwAYklv9PC/view`
-- LinkedIn post: `https://www.linkedin.com/feed/update/urn:li:activity:7259662719702716416/`
+- [GitHub repository](https://github.com/Hari-Nikesh-R/frisky_cards)
+- [Demo video (Google Drive)](https://drive.google.com/file/d/1vH9a1WkNsRwcCISSW07fwwcwAYklv9PC/view)
+- [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7259662719702716416/)

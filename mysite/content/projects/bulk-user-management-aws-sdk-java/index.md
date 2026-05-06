@@ -18,4 +18,4 @@ A focused project to build a robust bulk user management workflow in AWS using t
 
 ## Links
 
-- GitHub: `https://github.com/Hari-Nikesh-R/cognito_auth_v2_create_delete_user`
+- [GitHub repository](https://github.com/Hari-Nikesh-R/cognito_auth_v2_create_delete_user)

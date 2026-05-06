@@ -13,5 +13,5 @@ A lightweight utility to compare the column of two Excel files or two CSV files,
 
 ## Links
 
-- PyPI: `https://pypi.org/project/csv-excel-matcher/`
-- Demo video: `https://drive.google.com/file/d/1WSWZ0kLmNXXITjE-ItT83VZVI51saIHt/view`
+- [PyPI](https://pypi.org/project/csv-excel-matcher/)
+- [Demo video (Google Drive)](https://drive.google.com/file/d/1WSWZ0kLmNXXITjE-ItT83VZVI51saIHt/view)

@@ -22,6 +22,6 @@ SQL Components (SQL Powerhouse) is a persistence solution designed to integrate 
 
 ## Links
 
-- Docs: `https://sqlcomponents.org/`
-- GitHub org: `https://github.com/sqlcomponents`
-- LinkedIn (project): `https://www.linkedin.com/in/hari-nikesh-r-930bb723a/overlay/Project/714683117/treasury/?profileId=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ`
+- [Documentation](https://sqlcomponents.org/)
+- [GitHub organization](https://github.com/sqlcomponents)
+- [LinkedIn (project showcase)](https://www.linkedin.com/in/hari-nikesh-r-930bb723a/overlay/Project/714683117/treasury/?profileId=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)

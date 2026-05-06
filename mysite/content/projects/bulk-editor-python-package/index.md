@@ -18,5 +18,5 @@ A Python package that enables editing multiple images in one shot—useful for q
 
 ## Links
 
-- PyPI: `https://pypi.org/project/bulk-editor/`
-- LinkedIn post: `https://www.linkedin.com/feed/update/urn:li:activity:7092571107483934720/`
+- [PyPI](https://pypi.org/project/bulk-editor/)
+- [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7092571107483934720/)

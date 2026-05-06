@@ -23,4 +23,4 @@ Zuzu POS (Desktop) is a point-of-sale application built to work reliably in offl
 
 ## Links
 
-- Demo video: `https://drive.google.com/file/d/18R3ygDo2nRqdVqFh6QP22WiApIkYLgaS/view`
+- [Demo video (Google Drive)](https://drive.google.com/file/d/18R3ygDo2nRqdVqFh6QP22WiApIkYLgaS/view)

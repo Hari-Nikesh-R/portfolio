@@ -26,4 +26,4 @@ Built the official website for Tamilnadu Java User Group (Tamil JUG) to help the
 
 ## Links
 
-- Website: `https://tamilnadujug.org/`
+- [Website](https://tamilnadujug.org/)

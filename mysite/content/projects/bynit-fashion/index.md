@@ -19,7 +19,7 @@ Bynit Fashion is an e-commerce backend project consisting of multiple services (
 
 ## Links
 
-- Product service: `https://github.com/Hari-Nikesh-R/bynit-product-service`
-- Order service: `https://github.com/Hari-Nikesh-R/bynit-order`
-- Auth service: `https://github.com/Hari-Nikesh-R/bynit-member-auth`
-- Cart service: `https://github.com/Hari-Nikesh-R/bynit-cart`
+- [Product service](https://github.com/Hari-Nikesh-R/bynit-product-service)
+- [Order service](https://github.com/Hari-Nikesh-R/bynit-order)
+- [Auth service](https://github.com/Hari-Nikesh-R/bynit-member-auth)
+- [Cart service](https://github.com/Hari-Nikesh-R/bynit-cart)

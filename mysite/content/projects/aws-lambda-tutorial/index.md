@@ -25,4 +25,4 @@ A tutorial-style project to learn and demonstrate AWS Lambda—how to run code w
 
 ## Links
 
-- GitHub: `https://github.com/Hari-Nikesh-R/aws-tutorial`
+- [GitHub repository](https://github.com/Hari-Nikesh-R/aws-tutorial)

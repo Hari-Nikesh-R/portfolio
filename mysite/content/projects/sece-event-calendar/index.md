@@ -26,4 +26,4 @@ A professionally designed calendar application built to simplify event organizat
 
 ## Links
 
-- Demo video: `https://drive.google.com/file/d/1qRYliqpH2ysgXXb3ljJTHkFpsBnUhhHh/view`
+- [Demo video (Google Drive)](https://drive.google.com/file/d/1qRYliqpH2ysgXXb3ljJTHkFpsBnUhhHh/view)

@@ -25,4 +25,4 @@ Zuzu POS (Android) is a revamped companion to the desktop POS system, extending 
 
 ## Links
 
-- Demo: `https://drive.google.com/file/d/1NgqCtQ0sIlBLkOgXsZfugTcHbBT5SdXm/view?usp=sharing&usp=embed_facebook`
+- [Demo video (Google Drive)](https://drive.google.com/file/d/1NgqCtQ0sIlBLkOgXsZfugTcHbBT5SdXm/view?usp=sharing&usp=embed_facebook)

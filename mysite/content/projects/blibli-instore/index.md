@@ -24,4 +24,4 @@ Blibli Instore brings Blibli’s online checkout experience into physical stores
 
 ## Links
 
-- Play Store: `https://play.google.com/store/apps/details?id=com.blibli.instore.byok&hl=en`
+- [Google Play](https://play.google.com/store/apps/details?id=com.blibli.instore.byok&hl=en)

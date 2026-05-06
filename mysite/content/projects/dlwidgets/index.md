@@ -23,6 +23,6 @@ DLWidgets streamlines Flutter development by providing a comprehensive collectio
 
 ## Links
 
-- Source code: `https://github.com/Hari-Nikesh-R/DlWidgets`
-- Pub package: `https://pub.dev/packages/dlwidgets`
-- LinkedIn post: `https://www.linkedin.com/feed/update/urn:li:activity:7083330729950023680/`
+- [Source code (GitHub)](https://github.com/Hari-Nikesh-R/DlWidgets)
+- [pub.dev package](https://pub.dev/packages/dlwidgets)
+- [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7083330729950023680/)
