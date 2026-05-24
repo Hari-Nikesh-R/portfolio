@@ -5,6 +5,8 @@ draft: false
 featureimage: "images/google_konnect_2024/google_konnect_2024_1.png"
 description: "Event Summary and My Learning from the Konnect AI program at Google, exploring Gemini AI and advanced prompting techniques."
 tags: ["gemini-ai", "google", "prompting-techniques", "konnect-ai", "google-konnect", "event", "community"]
+communityRoles: ["attendee"]
+
 ---
 
 # Event Summary

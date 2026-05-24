@@ -31,9 +31,8 @@ layout: "page"
   <h2 class="text-3xl font-bold mb-8 text-center text-neutral-900 dark:text-white">🚀 Explore My World</h2>
   <div class="home-quick-cards grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
     {{< highlight_card img="images/google_konnect_2024/google_konnect_2024_1.png" link="/portfolio/experience/" title="Experience" desc="Professional journey & impact" icon="💼" >}}
-    {{< highlight_card img="images/jf_2025/jf_2025_speaker_1.png" link="/portfolio/talks/" title="Talks" desc="Speaker notes & outlines" icon="🎤" >}}
     {{< highlight_card img="images/krishna_sm_2026/krishna_sm_2026_1.jpeg" link="/portfolio/education/" title="Education" desc="Academic journey & background" icon="🎓" >}}
-    {{< highlight_card img="images/cm_google_2025/cm_google_2025.png" link="/portfolio/community/" title="Community" desc="JUG playbooks & contributions" icon="🤝" >}}
+    {{< highlight_card img="images/cm_google_2025/cm_google_2025.png" link="/portfolio/community/" title="Community" desc="Talks, meetups & events" icon="🤝" >}}
     {{< highlight_card img="images/ss_firebase_2025/ss_firebase_2024_1.png" link="/portfolio/projects/" title="Projects" desc="Products & experiments" icon="🚀" >}}
     {{< highlight_card img="images/notable_alumini_SECE_2025/notable_alumini_SECE_2025_1.png" link="/portfolio/honors/" title="Honors" desc="Awards & recognitions" icon="🏆" >}}
     {{< highlight_card img="images/profile_speaker_image.png" link="/portfolio/about/" title="About" desc="More about me" icon="👤" >}}

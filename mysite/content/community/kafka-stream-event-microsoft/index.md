@@ -5,6 +5,8 @@ draft: false
 featureimage: "images/microsoft_kafka_2024/microsoft_kafka_2024_1.png"
 description: "Event Summary and My Learning from the Microsoft-hosted meetup on Kafka, Confluent technologies, and real-time data streaming."
 tags: ["kafka", "microsoft", "confluent", "streaming", "event", "community"]
+communityRoles: ["attendee"]
+
 ---
 
 # Event Summary

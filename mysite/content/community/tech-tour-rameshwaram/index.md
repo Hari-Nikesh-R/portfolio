@@ -5,6 +5,8 @@ draft: false
 featureimage: "images/rameshwaram_tech_tour/rameshwaram_tech_tour_1.jpg"
 description: "A community-driven long weekend coding camp with Tamil Nadu Java User Group members—learning, open-source collaboration, and exploration at Rameshwaram."
 tags: ["community", "tnjug", "java", "coding-camp", "open-source", "ai", "tech-tour", "rameshwaram"]
+communityRoles: ["attendee"]
+
 ---
 
 ![Tech Tour @ Rameshwaram](images/rameshwaram_tech_tour/rameshwaram_tech_tour_1.jpg)

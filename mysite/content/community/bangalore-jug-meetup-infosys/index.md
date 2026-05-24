@@ -5,6 +5,8 @@ draft: false
 featureimage: "images/infosys_telemetry_2024/infosys_telemetry_2024_1.png"
 description: "Event Summary and My Learning from the Bangalore JUG meetup at Infosys, focusing on OpenTelemetry and quality-driven development."
 tags: ["java", "opentelemetry", "spring-boot", "observability", "event", "community", "bjjug", "infosys"]
+communityRoles: ["attendee"]
+
 ---
 
 # Event Summary

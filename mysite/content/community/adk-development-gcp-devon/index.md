@@ -5,6 +5,8 @@ draft: false
 featureimage: "images/bjug_devon_2025/bjug_devon_2025_1.png"
 description: "Event Summary and My Learning from the community meetup at DevOn Software covering GCP development, Java evolution, and concurrency."
 tags: ["gcp", "adk", "java", "concurrency", "event", "community"]
+communityRoles: ["attendee"]
+
 ---
 
 # Event Summary

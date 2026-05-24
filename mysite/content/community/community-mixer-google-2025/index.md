@@ -5,6 +5,8 @@ draft: false
 featureimage: "images/cm_google_2025/cm_google_2_2025.png"
 description: "Event Summary and My Contribution at the Community Mixer @ Google 2025."
 tags: ["community", "google", "event"]
+communityRoles: ["attendee"]
+
 ---
 
 # Event Summary

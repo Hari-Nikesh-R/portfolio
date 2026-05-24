@@ -5,6 +5,8 @@ draft: false
 featureimage: "images/bjjug_redhat_2024/bjjug_redhat_2024_1.png"
 description: "Event Summary and My Learning from the Bangalore JUG meetup at RedHat office, exploring Spring Boot 3.x, modern Java, and secure supply chains."
 tags: ["spring-boot", "redhat", "java-21", "supply-chain", "event", "community", "bjjug"]
+communityRoles: ["attendee"]
+
 ---
 
 # Event Summary

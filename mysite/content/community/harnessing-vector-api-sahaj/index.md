@@ -5,6 +5,8 @@ draft: false
 featureimage: "images/bjjug_sahaj_2024/bjjug_sahaj_2024_1.png"
 description: "Event Summary and My Learning from the JUG Bangalore meetup at Sahaj Software, exploring Vector API, DevOps automation, and Foreign Function & Memory API."
 tags: ["java", "vector-api", "devops", "foreign-function-memory-api", "event", "community", "bjjug"]
+communityRoles: ["attendee"]
+
 ---
 
 # Event Summary

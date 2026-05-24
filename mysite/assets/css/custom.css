@@ -324,3 +324,126 @@
     height: 220px;
   }
 }
+
+/* ============================================================
+   Community section — role filter chips & badges
+   ============================================================ */
+
+.community-filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.community-filter-chip {
+  appearance: none;
+  border: 1px solid #cbd5e1;
+  background: #ffffff;
+  color: #334155;
+  border-radius: 9999px;
+  padding: 0.45rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  line-height: 1.25rem;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.community-filter-chip:hover {
+  border-color: #0a66c2;
+  color: #0a66c2;
+}
+
+.community-filter-chip--active {
+  background: #0a66c2;
+  border-color: #0a66c2;
+  color: #ffffff;
+  box-shadow: 0 4px 14px rgba(10, 102, 194, 0.25);
+}
+
+.dark .community-filter-chip {
+  background: #1e2028;
+  border-color: #3d4459;
+  color: #cbd5e1;
+}
+
+.dark .community-filter-chip:hover {
+  border-color: #70b5f9;
+  color: #70b5f9;
+}
+
+.dark .community-filter-chip--active {
+  background: #70b5f9;
+  border-color: #70b5f9;
+  color: #1a202c;
+}
+
+.community-card-item {
+  position: relative;
+}
+
+.community-card-item .article-link--card {
+  min-height: 100%;
+}
+
+.community-card-roles {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  z-index: 2;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  justify-content: flex-end;
+  max-width: calc(100% - 1.5rem);
+  pointer-events: none;
+}
+
+.community-role-badge {
+  display: inline-block;
+  border-radius: 9999px;
+  padding: 0.2rem 0.55rem;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  backdrop-filter: blur(6px);
+}
+
+.community-role-badge--speaker {
+  background: rgba(219, 234, 254, 0.92);
+  color: #1d4ed8;
+}
+
+.community-role-badge--organizer {
+  background: rgba(254, 243, 199, 0.92);
+  color: #b45309;
+}
+
+.community-role-badge--attendee {
+  background: rgba(220, 252, 231, 0.92);
+  color: #15803d;
+}
+
+.dark .community-role-badge--speaker {
+  background: rgba(30, 58, 138, 0.85);
+  color: #bfdbfe;
+}
+
+.dark .community-role-badge--organizer {
+  background: rgba(120, 53, 15, 0.85);
+  color: #fde68a;
+}
+
+.dark .community-role-badge--attendee {
+  background: rgba(20, 83, 45, 0.85);
+  color: #bbf7d0;
+}
+
+.community-filter-empty.hidden {
+  display: none;
+}
+
+.community-card-item.hidden {
+  display: none;
+}

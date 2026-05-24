@@ -5,6 +5,8 @@ draft: false
 featureimage: "images/kochijug_aug_venket_2025/kochijug_aug_venket_2025_1.png"
 description: "Event Summary and My Learning from the KochiJUG meetup @ IBM Kochi featuring Dr. Venkat Subramaniam."
 tags: ["java", "ai", "venkat-subramaniam", "event", "community", "ibm-kochi", "javafest"]
+communityRoles: ["attendee"]
+
 ---
 
 # Event Summary

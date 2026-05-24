@@ -1,0 +1,114 @@
+{{ define "main" }}
+  {{ .Scratch.Set "scope" "list" }}
+
+  <header>
+    {{ if .Params.showBreadcrumbs | default (site.Params.list.showBreadcrumbs | default false) }}
+      {{ partial "breadcrumbs.html" . }}
+    {{ end }}
+    <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+    <div class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+      {{ partial "article-meta/list.html" (dict "context" . "scope" "single") }}
+    </div>
+  </header>
+
+  {{ with .Content }}
+    <section class="prose dark:prose-invert mt-4 mb-6 max-w-full">
+      {{ . }}
+    </section>
+  {{ end }}
+
+  {{ if gt .Pages 0 }}
+    {{ $pages := .Pages.ByDate.Reverse }}
+
+    <div class="community-filter-bar not-prose mb-8" role="tablist" aria-label="Filter community events by role">
+      <button type="button" class="community-filter-chip community-filter-chip--active" data-community-filter="all" role="tab" aria-selected="true">All</button>
+      <button type="button" class="community-filter-chip" data-community-filter="speaker" role="tab" aria-selected="false">Speaker</button>
+      <button type="button" class="community-filter-chip" data-community-filter="organizer" role="tab" aria-selected="false">Organizer</button>
+      <button type="button" class="community-filter-chip" data-community-filter="attendee" role="tab" aria-selected="false">Attendee</button>
+    </div>
+
+    <p class="community-filter-empty not-prose hidden mb-6 text-neutral-600 dark:text-neutral-400">
+      No events found for this role yet.
+    </p>
+
+    <section class="community-card-grid w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+      {{ range $pages }}
+        {{ $roles := .Params.communityRoles | default (slice "attendee") }}
+        <div class="community-card-item" data-community-roles="{{ delimit $roles " " }}">
+          {{ partial "article-link/card.html" . }}
+          <div class="community-card-roles not-prose">
+            {{ range $roles }}
+              <span class="community-role-badge community-role-badge--{{ . }}">{{ title . }}</span>
+            {{ end }}
+          </div>
+        </div>
+      {{ end }}
+    </section>
+  {{ else }}
+    <section class="mt-10 prose dark:prose-invert">
+      <p class="py-8 border-t">
+        <em>{{ i18n "list.no_articles" | emojify }}</em>
+      </p>
+    </section>
+  {{ end }}
+
+  <script>
+    (function () {
+      const chips = document.querySelectorAll("[data-community-filter]");
+      const items = document.querySelectorAll(".community-card-item");
+      const emptyState = document.querySelector(".community-filter-empty");
+      const validFilters = new Set(["all", "speaker", "organizer", "attendee"]);
+
+      function setActiveChip(filter) {
+        chips.forEach(function (chip) {
+          const isActive = chip.dataset.communityFilter === filter;
+          chip.classList.toggle("community-filter-chip--active", isActive);
+          chip.setAttribute("aria-selected", isActive ? "true" : "false");
+        });
+      }
+
+      function applyFilter(filter) {
+        if (!validFilters.has(filter)) {
+          filter = "all";
+        }
+
+        let visibleCount = 0;
+
+        items.forEach(function (item) {
+          const roles = (item.dataset.communityRoles || "").split(/\s+/).filter(Boolean);
+          const show = filter === "all" || roles.includes(filter);
+          item.classList.toggle("hidden", !show);
+          if (show) {
+            visibleCount += 1;
+          }
+        });
+
+        if (emptyState) {
+          emptyState.classList.toggle("hidden", visibleCount > 0);
+        }
+
+        setActiveChip(filter);
+
+        if (filter === "all") {
+          history.replaceState(null, "", location.pathname + location.search);
+        } else {
+          history.replaceState(null, "", "#" + filter);
+        }
+      }
+
+      chips.forEach(function (chip) {
+        chip.addEventListener("click", function () {
+          applyFilter(chip.dataset.communityFilter);
+        });
+      });
+
+      const initialFilter = validFilters.has(location.hash.slice(1)) ? location.hash.slice(1) : "all";
+      applyFilter(initialFilter);
+
+      window.addEventListener("hashchange", function () {
+        const filter = validFilters.has(location.hash.slice(1)) ? location.hash.slice(1) : "all";
+        applyFilter(filter);
+      });
+    })();
+  </script>
+{{ end }}

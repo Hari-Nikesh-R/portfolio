@@ -5,6 +5,8 @@ draft: false
 featureimage: "images/venkat_talk_banfico_2026/venkat_talk_banfico_2026_1.png"
 description: "Event Summary and Key Learnings from the TNJUG tech session featuring Venkat Subramaniam at Banfico office."
 tags: ["ai", "java", "venkat-subramaniam", "tnjug", "banfico", "event", "community"]
+communityRoles: ["attendee"]
+
 ---
 
 # Event Summary

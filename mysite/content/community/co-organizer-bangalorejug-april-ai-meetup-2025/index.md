@@ -5,6 +5,9 @@ draft: false
 featureimage: "images/april_bjug_2025/bjug_2025_1.png"
 description: "Event Summary and My Contribution as a Co-organizer at the BangaloreJUG April AI meetup at Infosys."
 tags: ["java", "ai", "event", "community", "co-organizer", "bangalore"]
+aliases: ["/talks/co-organizer-bangalorejug-april-ai-meetup-2025/"]
+communityRoles: ["organizer"]
+
 ---
 
 # Event Summary

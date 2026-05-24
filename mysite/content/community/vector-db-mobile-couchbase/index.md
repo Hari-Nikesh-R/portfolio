@@ -5,6 +5,8 @@ draft: false
 featureimage: "images/couchbase_2023/couchbase_2023_1.png"
 description: "Event Summary and My Learning from the Vector Search with AI session at the Couchbase office in Bangalore."
 tags: ["vector-db", "mobile", "couchbase", "ai", "event", "community"]
+communityRoles: ["attendee"]
+
 ---
 
 # Event Summary

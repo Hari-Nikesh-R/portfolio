@@ -5,6 +5,8 @@ draft: false
 featureimage: "images/bjjug_oracle_2025/bjjug_oracle_2025_1.png"
 description: "Event Summary and My Learning from the community meetup at Oracle exploring DJL, AI in microservices, and Cursor AI productivity tools."
 tags: ["oracle", "cursor-ai", "djl", "microservices", "event", "community", "bjjug", "tnjug", "javafest"]
+communityRoles: ["attendee", "speaker"]
+
 ---
 
 # Event Summary

@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <section class="prose dark:prose-invert mt-16 text-center">
+    <h1>Talks have moved</h1>
+    <p>All talks are now part of the Community section.</p>
+    <p><a href="{{ `/community/` | relURL }}">Go to Community</a></p>
+  </section>
+  <script>
+    window.location.replace({{ `/community/` | relURL | jsonify }});
+  </script>
+  <meta http-equiv="refresh" content="0; url={{ `/community/` | relURL }}">
+{{ end }}

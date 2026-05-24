@@ -5,6 +5,8 @@ draft: false
 featureimage: "images/ai_event_sap_2025/ai_event_sap_2025_1.png"
 description: "Event Summary and My Learning from the SAP AI Insider meetup in Bangalore, exploring LLM applications in enterprise systems."
 tags: ["ai", "sap", "llm", "enterprise-ai", "event", "community"]
+communityRoles: ["attendee"]
+
 ---
 
 # Event Summary

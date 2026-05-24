@@ -1,12 +1,10 @@
 ---
-title: "🎤 Talks"
-date: 2026-02-26
+title: "Talks"
 draft: false
-description: "Talk outlines, speaker notes, and references—built for community sharing."
-tags: ["talks", "java", "spring-boot", "ai"]
-layout: "list"
-showCards: true
-showSummary: true
-cardView: true
+description: "Talks have moved to the Community section."
+url: /talks/
+aliases:
+  - /talks/
 ---
 
+All talks and community events are now available in the [Community](/community/) section.
