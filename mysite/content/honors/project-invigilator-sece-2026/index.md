@@ -4,7 +4,7 @@ date: 2026-05-24
 draft: false
 featureimage: "images/project_invigilator_sece_2026/project_invigilator_sece_2026_0.jpg"
 description: "Validated industrial student projects, mentored first-year builders, and explored AI-assisted development at Sri Eshwar College of Engineering, Coimbatore."
-tags: ["mentor", "invigilator", "event", "talks", "academic", "ai", "project-evaluation", "sece"]
+tags: ["honor", "award", "mentor", "invigilator", "academic", "ai", "project-evaluation", "sece"]
 ---
 
 ![Event Preview](images/project_invigilator_sece_2026/project_invigilator_sece_2026_0.jpg)
