@@ -1,5 +1,4 @@
-In the {Talk} section add new page called Industry Speaker @ VETIAS, Erode 2026
-cover photo for the page preview {}
+In the {community} section add new page called {} and add a tag {speaker / Attentee / Organizer}
 
 Add image - {}
 
