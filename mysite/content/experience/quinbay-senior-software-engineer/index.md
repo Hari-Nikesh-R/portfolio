@@ -4,7 +4,7 @@ date: 2026-01-01
 draft: false
 description: "Building scalable applications across Android and Java Spring Boot ecosystems."
 tags: ["senior-engineer", "quinbay", "android", "spring-boot", "aws"]
-weight: 1
+weight: 2
 company: "Quinbay Technologies"
 role: "Senior Software Engineer"
 employment_type: "Full-time"

@@ -4,7 +4,7 @@ date: 2022-07-11
 draft: false
 description: "Growing from SDE Intern to Mobile Full Stack Intern across Android and Spring Boot."
 tags: ["internship", "android", "full-stack", "spring-boot", "jetpack-compose"]
-weight: 3
+weight: 4
 company: "Quinbay Technologies"
 role: "Mobile Full Stack Intern → SDE Intern"
 employment_type: "Internship"

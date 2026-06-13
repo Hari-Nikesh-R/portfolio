@@ -4,7 +4,7 @@ date: 2023-10-01
 draft: false
 description: "Mobile Full Stack Developer on large-scale production systems serving millions of users."
 tags: ["software-engineer", "full-stack", "android", "spring-boot", "blibli"]
-weight: 2
+weight: 3
 company: "Quinbay Technologies"
 role: "Software Engineer I"
 employment_type: "Full-time"

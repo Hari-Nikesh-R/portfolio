@@ -4,7 +4,7 @@ date: 2021-05-01
 draft: false
 description: "Early career exploration in Python automation, computer vision (OpenCV), and Selenium scripting."
 tags: ["internship", "python", "automation", "computer-vision"]
-weight: 7
+weight: 8
 company: "Enthu Technology Solutions"
 role: "Python Developer Intern"
 employment_type: "Internship"

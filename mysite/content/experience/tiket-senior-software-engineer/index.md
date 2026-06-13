@@ -4,7 +4,7 @@ date: 2026-02-01
 draft: false
 description: "Senior Software Engineer at Tiket.com."
 tags: ["senior-engineer", "tiket", "android", "software-engineering"]
-weight: 0
+weight: 1
 company: "Tiket.com"
 role: "Senior Software Engineer"
 employment_type: "Full-time"
@@ -14,6 +14,7 @@ location: "India"
 work_type: "Hybrid"
 logo_initials: "TK"
 logo_color: "#1e88e5"
+logo_image: "tiket_com_logo.png"
 ---
 
 # Role Overview

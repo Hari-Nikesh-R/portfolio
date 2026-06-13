@@ -4,7 +4,7 @@ date: 2025-01-01
 draft: false
 description: "Building and growing the Tamil Nadu Java User Group community through organizing meetups, delivering technical talks, and connecting developers across the region."
 tags: ["community", "java", "organizer", "speaker", "jug", "tnjug"]
-weight: 4
+weight: 5
 company: "Tamil Nadu JUG"
 role: "Speaker & Organizer"
 employment_type: "Volunteer"
