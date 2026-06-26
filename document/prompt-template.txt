@@ -1,15 +1,6 @@
-In the {community} section add new page called {} and add a tag {speaker / Attentee / Organizer}
+"Create community content for:
 
-Add image - {}
+title: Master Class on Agentic AI 
+Event summary: Hosted a masterclass on Agentic AI at Thiran Event 2026, engaging with students and faculty. My Contribution / Learnings: Delivered hands-on chatbot development session and discussed industry alignment.
 
--h1 Event Summary
-Add image - {}
-
--h1 My Contribution
-
-Add image - {}
-
-
-
-
-
+Use the create-community-content skill to generate this."
