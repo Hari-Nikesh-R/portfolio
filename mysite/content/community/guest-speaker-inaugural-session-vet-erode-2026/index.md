@@ -46,3 +46,10 @@ The event concluded with an interactive discussion where students actively engag
 
 - Motivated students to embrace challenges instead of fearing failure.
 - Engaged students through interactive storytelling, practical career advice, and relatable examples.
+
+---
+
+# Relevant Links
+
+- **LinkedIn:** [Post Link](https://www.linkedin.com/posts/hari-nikesh-r-930bb723a_education-learning-curiosity-ugcPost-7475885670461263875-FxD3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufU3QBt_WxzI5manWgx7nUTsyBTkx5FyQ)
+
