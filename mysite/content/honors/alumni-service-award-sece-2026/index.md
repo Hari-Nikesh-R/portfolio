@@ -4,9 +4,8 @@ date: 2026-08-08
 draft: false
 featureimage: "images/alumini_service_award_2026/alumini_service_award_2026_1.png"
 description: "Honored with the Alumni Service Award 2026 by Sri Eshwar College of Engineering in recognition of contributions to mentoring, community building, and bridging academia and industry."
-tags: ["community", "award", "mentor", "sece", "alumnus", "event"]
-aliases: ["/talks/alumni-service-award-sece-2026/"]
-communityRoles: ["mentor", "speaker"]
+tags: ["honor", "award", "mentor", "sece", "alumnus", "event"]
+aliases: ["/talks/alumni-service-award-sece-2026/", "/community/alumni-service-award-sece-2026/"]
 ---
 
 ![Alumni Service Award 2026](images/alumini_service_award_2026/alumini_service_award_2026_1.png)
