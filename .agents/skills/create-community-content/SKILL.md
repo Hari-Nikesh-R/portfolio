@@ -21,7 +21,7 @@ featureimage: "images/<slug>/<feature_image_name>.png"
 description: "<Brief description of the event>"
 tags: ["community", <other relevant tags>]
 aliases: ["/talks/<slug>/"]
-communityRoles: [<roles, e.g., "speaker", "attendee", "mentor">]
+communityRoles: [<roles: "speaker" | "organizer" | "attendee">]
 ---
 ```
 
@@ -46,8 +46,8 @@ communityRoles: [<roles, e.g., "speaker", "attendee", "mentor">]
      - **Title**
      - **Event Summary**
      - **My Contribution / Learnings**
-     - **Date** (default to current local date if not specified)
-     - **Roles** (e.g., speaker, attendee, mentor)
+     - **Date** (YYYY-MM-DD; must not be in the future relative to UTC)
+     - **Roles** (Allowed roles: `speaker`, `organizer`, `attendee` only)
 2. **Generate Slug**:
    - Create a URL-friendly slug based on the title (e.g. `guest-speaker-sece-2026`).
 3. **Determine Filepath**:
