@@ -32,7 +32,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "0.155.3"
+          hugo-version: "latest"
           extended: true
 
       - name: Set base URL
