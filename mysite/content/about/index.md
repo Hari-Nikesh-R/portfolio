@@ -1,6 +1,6 @@
 ---
 title: "About me"
-description: "Hari Nikesh R — Software Engineer, Android developer, and community leader."
+description: "Hari Nikesh R — Senior Software Engineer, AI Engineer, and community leader."
 draft: false
 featureimage: "images/profile_speaker_image.png"
 date: 2026-02-26
@@ -9,7 +9,7 @@ date: 2026-02-26
 
 **Name:** [Hari Nikesh R](https://www.linkedin.com/in/hari-nikesh-r-930bb723a/)
 
-**Profession:** Software Engineer — Android developer.
+**Profession:** Senior Software Engineer — AI Engineer.
 
 I am currently working at **[Tiket.com](https://tiket.com)** as a **Senior Software Engineer** with over **3 years of hands-on experience** building scalable, high-performance applications. My journey in tech began with a passion for solving complex problems, which naturally led me to explore the world of mobile technology — particularly Android, Kotlin, and Firebase. Over time, this curiosity evolved into a deep commitment to building not just apps, but also **knowledge-sharing communities.**
 

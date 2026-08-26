@@ -28,7 +28,7 @@
       {{ partial "cta-button.html" (dict "url" site.Home.RelPermalink "label" (i18n "error.404_home")) }}
     </div>
 
-    {{ with hugo.Data.quotes404 }}
+    {{ with site.Data.quotes404 }}
       {{/* Pick the current language's quotes at build time: exact locale
         first, then base language, then English. Quotes without a lang are
         treated as English to preserve existing custom overrides. */}}

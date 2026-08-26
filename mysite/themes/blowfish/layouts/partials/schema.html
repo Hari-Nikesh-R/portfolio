@@ -6,7 +6,7 @@
     "@id": {{ site.Home.Permalink | safeURL }},
     "name": "{{ .Site.Title | safeJS }}",
     {{ with .Site.Params.description }}"description": "{{ . | safeJS }}",{{ end }}
-    {{ with .Site.Language.Locale }}"inLanguage": "{{ . }}",{{ end }}
+    {{ with .Site.Language.Lang }}"inLanguage": "{{ . }}",{{ end }}
     "url": {{ site.Home.Permalink | safeURL }},
     {{ with .Site.Params.keywords }}"keywords": {{ . }},{{ end }}
     "publisher" : {
@@ -20,7 +20,7 @@
   {{- /* Resolve the author: first `authors` front matter key looked up in data/authors/, else the site author. */ -}}
   {{- $author := .Site.Params.Author -}}
   {{- with .Params.authors -}}
-    {{- with index hugo.Data.authors (index . 0 | lower) -}}
+    {{- with index site.Data.authors (index . 0 | lower) -}}
       {{- $author = . -}}
     {{- end -}}
   {{- end -}}
@@ -41,7 +41,7 @@
     "name": "{{ .Title | safeJS }}",
     "headline": "{{ .Title | safeJS }}",
     {{ with .Description }}"description": "{{ . | safeJS }}",{{ end }}
-    {{ with .Site.Language.Locale }}"inLanguage": "{{ . }}",{{ end }}
+    {{ with .Site.Language.Lang }}"inLanguage": "{{ . }}",{{ end }}
     "url" : {{ .Permalink }},
     "author" : {
       "@type": "Person",

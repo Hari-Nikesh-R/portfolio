@@ -2,8 +2,8 @@
 title: "Hi, I'm Hari Nikesh R 👋"
 date: 2026-02-26
 draft: false
-description: "Software Engineer — Android developer. Community leader and technical speaker."
-heroCaption: "Software Engineer • Native Android Developer"
+description: "Senior Software Engineer — AI Engineer. Community leader and technical speaker."
+heroCaption: "Senior Software Engineer • AI Engineer"
 heroLead: "I build scalable, high-performance mobile applications and have a deep commitment to growing vibrant knowledge-sharing communities."
 heroButtons:
   - label: "Connect on LinkedIn"
