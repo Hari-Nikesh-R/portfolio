@@ -2,14 +2,14 @@
 title: "Spark Social – Tata Social Enterprise Challenge 2026 @ StartupTN, Chennai"
 date: 2026-08-19
 draft: false
-featureimage: "images/tnebooks_startuptn/tnebooks_startuptn_5.jpeg"
+featureimage: "images/tnebooks_startuptn/tnebooks_startuptn_0.jpg"
 description: "Attended Spark Social, the flagship outreach seminar of the 14th edition of Tata Social Enterprise Challenge (TSEC) by StartupTN & IIM Calcutta Innovation Park, and pitched our idea."
 tags: ["community", "startuptn", "tsec", "tata-social-enterprise-challenge", "entrepreneurship", "pitch", "innovation", "event", "attendee"]
 aliases: ["/talks/spark-social-tsec-startuptn-chennai-2026/"]
 communityRoles: ["attendee"]
 ---
 
-![Spark Social Seminar 2026 @ StartupTN Chennai](images/tnebooks_startuptn/tnebooks_startuptn_5.jpeg)
+![Spark Social Seminar 2026 @ StartupTN Chennai](images/tnebooks_startuptn/tnebooks_startuptn_0.jpg)
 
 # Event Summary
 
@@ -28,6 +28,7 @@ I could relate to many of the experiences shared during the sessions. It made me
 One of the most memorable parts of the event was meeting people from different startups. Everyone was working on a different problem, with a different story and a different reason for starting. Listening to them made me realise how something that starts as a simple idea can gradually become something much bigger when you genuinely work on it.
 
 ![Founders Presenting and Showcasing Innovations](images/tnebooks_startuptn/tnebooks_startuptn_4.jpeg)
+
 
 ---
 
