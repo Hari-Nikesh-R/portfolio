@@ -1,6 +1,6 @@
 ---
 title: "Industrial Mentor & Speaker – Data Analytics Session @ KIOT"
-date: 2026-10-04
+date: 2026-09-09
 draft: false
 featureimage: "images/kiot_industrial_mentor_data_analytics_2026/kiot_industrial_mentor_data_analytics_2026_1.jpeg"
 description: "Event details and my contribution as a session speaker and industrial mentor on Data Analytics at Knowledge Institute of Technology (KIOT)."
